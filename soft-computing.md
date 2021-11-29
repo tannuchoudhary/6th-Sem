@@ -95,6 +95,18 @@ Consider a problem where a string w1 is “abc” and string w2 is “abd”.
 * In this field of Computer Engineering, you can say it is core part of soft computing and computing working on advanced level like Machine learning, Artificial intelligence, etc.
 
 
+
+# MODULE - 2
+
+## Biological neural network vs Artificial neural network
+
+* Biological neural networks are made of oscillators — this gives them the ability to filter inputs and to resonate with noise. It also gives them the ability to retain hidden firing patterns.
+* Artificial neural networks are time-independent and cannot filter their inputs. They retain fixed and apparent (but black-boxy) firing patterns after training.
+* The interactions of different types of noise with different elements of artificial neural networks is still a wide-open research topic. We know noise can be used to regularize their performance or to help avoid local minimums in gradient descent.
+* The brain’s ability to restructure its connections is called synaptic plasticity, and it is achieved through Long-Term Potentiation. Artificial neural networks determine their connectivity using gradient descent during training. The gradient is calculated using backpropagation, which we can compare to Hebbian Long-Term Potentiation.
+## Artificial neural networks
+Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems inspired by the biological neural networks that constitute animal brains. An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain.
+
 # Types of machine learning techniques: Supervised, unsupervised and reinforcement learning
 ![Screenshot from 2021-11-30 01-01-45](https://user-images.githubusercontent.com/42698268/143930784-47d6708e-dd1b-450e-9d89-9c9f572f89bc.png)
 
