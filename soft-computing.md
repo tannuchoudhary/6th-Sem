@@ -1,3 +1,100 @@
+# MODULE : 1
+
+## What is computing
+
+* According to the concept of computing, the input is called an antecedent and the output is called the consequent. For example, Adding information in DataBase, Compute the sum of two numbers using a C program, etc.
+
+* An input is given and output is produced
+
+## Types of computing
+* Soft computing
+* Hard computing
+
+
+## What is Soft computing?
+* Soft computing is defined as a group of computational techniques based on artificial intelligence (human like decision) and natural selection that provides quick and cost effective solution to very complex problems for which analytical (hard computing) formulations do not exist.
+* Soft computing is an important branch of computational intelligence, where fuzzy logic, probability theory, neural networks, and genetic algorithms are synergistically used to mimic the reasoning and decision making of a human.
+* Soft Computing techniques are used by various medical applications such as Medical Image Registration Using Genetic Algorithm, Machine Learning techniques to solve prognostic problems in medical domain, Artificial Neural Networks in diagnosing cancer and Fuzzy Logic in various diseases
+* The techniques of soft computing are nowadays being used successfully in many domestic, commercial, and industrial applications.
+* Soft Computing could be a computing model evolved to resolve the non-linear issues that involve unsure, imprecise and approximate solutions of a tangle. These sorts of issues square measure thought of as real-life issues wherever the human-like intelligence is needed to resolve it.
+
+## What is Hard computing?
+
+Hard Computing is that the ancient approach employed in computing that desires Associate in Nursing accurately declared analytical model. the outcome of hard computing approach is a warranted, settled, correct result and defines definite management actions employing a mathematical model or algorithmic rule. It deals with binary and crisp logic that need the precise input file consecutive. Hard computing isn’t capable of finding the real world problem’s solution.
+
+## Difference between soft computing and hard computing
+
+![Screenshot from 2021-11-30 01-36-08](https://user-images.githubusercontent.com/42698268/143936759-a0d652e0-664b-4797-8458-90089f3be757.png)
+
+## Characteristics of soft computing and hard computing
+
+
+### Characteristics of soft computing : 
+ 
+
+* It may not yield a precise solution.
+ 
+* Algorithms are adaptive. 
+ 
+* In soft computing, you can consider an example where you can see the evolution changes for a specific species like the human nervous system and behavior of an Ant’s, etc. 
+ 
+* Learning from experimental data.
+
+### Characteristics of hard computing : 
+ 
+
+* The precise result is guaranteed. 
+ 
+* The control action is unambiguous. 
+ 
+* The control action is formally defined (i.e. with a mathematical model)
+
+Now, the question arises that if we have hard computing then why do we require the need for soft computing. 
+
+## Need for soft computing
+
+* Many analytical models are valid for ideal cases. Real-world problems exist in a non-ideal environment. 
+ 
+* Soft computing provides insights into real-world problems and is just not limited to theory. 
+ 
+* Hard computing is best suited for solving mathematical problems which give some precise answers. 
+ 
+* Some important fields like Biology, Medicine and humanities, etc are still intractable using Convention mathematical and Analytical models. 
+ 
+* It is possible to map the human mind with the help of Soft computing but it is not possible with Convention mathematical and Analytical models.
+
+Examples – 
+
+Consider a problem where a string w1 is “abc” and string w2 is “abd”. 
+ 
+
+* Problem-1 : 
+  Tell that whether w1 is the same as w2 or not? 
+  
+  Solution – 
+  The answer is simply No, it means there is an algorithm by which we can analyze it. 
+
+ 
+
+* Problem-2 : 
+  Tell how much these two strings are similar? 
+  
+  Solution – 
+  The answer from conventional computing is either YES or NO. But these maybe 80% similar, this can be answered only by Soft Computing. 
+  
+## Recent development in soft computing
+
+* In the field of Big Data, soft computing working for data analyzing models, data behavior models, data decision, etc. 
+ 
+* In case of Recommender system, soft computing plays an important role for analyzing the problem on the based of algorithm and works for precise results. 
+ 
+* In Behavior and decision science, soft computing used in this for analyzing the behavior, and model of soft computing works accordingly. 
+ 
+* In the fields of Mechanical Engineering, soft computing is a role model for computing problems such that how a machine will works and how it will make the decision for a specific problem or input given. 
+ 
+* In this field of Computer Engineering, you can say it is core part of soft computing and computing working on advanced level like Machine learning, Artificial intelligence, etc.
+
+
 # Types of machine learning techniques: Supervised, unsupervised and reinforcement learning
 ![Screenshot from 2021-11-30 01-01-45](https://user-images.githubusercontent.com/42698268/143930784-47d6708e-dd1b-450e-9d89-9c9f572f89bc.png)
 
