@@ -134,6 +134,13 @@ Artificial neural networks (ANNs), usually simply called neural networks (NNs), 
 ![Screenshot from 2021-11-30 09-32-18](https://user-images.githubusercontent.com/42698268/143984046-b422fec0-b206-4b6d-b91c-60c6b9c4106d.png)
 
 
+## Single layer network
+
+![Screenshot from 2021-11-30 09-43-59](https://user-images.githubusercontent.com/42698268/143985089-dd07828d-3d51-451f-aba7-922b2f69a465.png)
+
+## Multi layer network
+
+![Screenshot from 2021-11-30 09-48-35](https://user-images.githubusercontent.com/42698268/143985113-16c797b6-01a8-43df-9e2c-fff5d4636632.png)
 
 
 
