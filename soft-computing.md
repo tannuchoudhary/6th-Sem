@@ -143,6 +143,9 @@ Artificial neural networks (ANNs), usually simply called neural networks (NNs), 
 ![Screenshot from 2021-11-30 09-48-35](https://user-images.githubusercontent.com/42698268/143985113-16c797b6-01a8-43df-9e2c-fff5d4636632.png)
 
 
+## Back propogation
+![Screenshot from 2021-11-30 09-54-02](https://user-images.githubusercontent.com/42698268/143985447-9d6a923e-fafa-4f62-a6c1-13f84aa36109.png)
+
 
 
 # Types of machine learning techniques: Supervised, unsupervised and reinforcement learning
