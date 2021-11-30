@@ -180,4 +180,41 @@ Artificial neural networks (ANNs), usually simply called neural networks (NNs), 
 ![Screenshot from 2021-11-30 01-27-17](https://user-images.githubusercontent.com/42698268/143934171-5674bca9-b9d8-40d0-ad01-a28a8133e307.png)
 
 
+# Fuzzy logic
+
+
+![Screenshot from 2021-11-30 10-01-14](https://user-images.githubusercontent.com/42698268/143986274-8818902d-0aed-42e2-8002-b199ad466fb5.png)
+
+
+![Screenshot from 2021-11-30 10-01-38](https://user-images.githubusercontent.com/42698268/143986283-3f10aa29-ce18-46c3-9d5b-8e03f7068eb3.png)
+
+
+![Screenshot from 2021-11-30 10-04-23](https://user-images.githubusercontent.com/42698268/143986289-3e7431d9-adc0-4b81-837a-9ac07cdf4809.png)
+
+
+
+![Screenshot from 2021-11-30 10-05-06](https://user-images.githubusercontent.com/42698268/143986296-54817094-3aec-4362-9610-0ef650175467.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
