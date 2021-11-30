@@ -104,8 +104,39 @@ Consider a problem where a string w1 is “abc” and string w2 is “abd”.
 * Artificial neural networks are time-independent and cannot filter their inputs. They retain fixed and apparent (but black-boxy) firing patterns after training.
 * The interactions of different types of noise with different elements of artificial neural networks is still a wide-open research topic. We know noise can be used to regularize their performance or to help avoid local minimums in gradient descent.
 * The brain’s ability to restructure its connections is called synaptic plasticity, and it is achieved through Long-Term Potentiation. Artificial neural networks determine their connectivity using gradient descent during training. The gradient is calculated using backpropagation, which we can compare to Hebbian Long-Term Potentiation.
+
+
 ## Artificial neural networks
+* Artificial neural network is an efficient computing system whose structure is defined by biological neural network
 Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems inspired by the biological neural networks that constitute animal brains. An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain.
+
+![Screenshot from 2021-11-30 09-18-41](https://user-images.githubusercontent.com/42698268/143984013-b41fc0de-45c8-4669-ada1-9812c9fc796f.png)
+
+![Screenshot from 2021-11-30 09-20-35](https://user-images.githubusercontent.com/42698268/143984021-7b049b81-5d56-4afd-ab06-eddc043ee364.png)
+
+
+![Screenshot from 2021-11-30 09-22-11](https://user-images.githubusercontent.com/42698268/143984025-619cda1d-cc5d-43eb-bd38-4fa150c273d8.png)
+
+
+![Screenshot from 2021-11-30 09-22-24](https://user-images.githubusercontent.com/42698268/143984029-3f372467-c522-4b46-83b9-0a4432a21f5c.png)
+
+
+
+
+![Screenshot from 2021-11-30 09-24-19](https://user-images.githubusercontent.com/42698268/143984038-22833f03-1e1d-4293-a156-3252d5d77f54.png)
+
+
+
+![Screenshot from 2021-11-30 09-30-37](https://user-images.githubusercontent.com/42698268/143984041-355e635f-8d58-4fb1-be0b-17a5ed07c171.png)
+
+
+
+![Screenshot from 2021-11-30 09-32-18](https://user-images.githubusercontent.com/42698268/143984046-b422fec0-b206-4b6d-b91c-60c6b9c4106d.png)
+
+
+
+
+
 
 # Types of machine learning techniques: Supervised, unsupervised and reinforcement learning
 ![Screenshot from 2021-11-30 01-01-45](https://user-images.githubusercontent.com/42698268/143930784-47d6708e-dd1b-450e-9d89-9c9f572f89bc.png)
