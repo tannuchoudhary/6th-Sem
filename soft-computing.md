@@ -94,6 +94,21 @@ Consider a problem where a string w1 is “abc” and string w2 is “abd”.
  
 * In this field of Computer Engineering, you can say it is core part of soft computing and computing working on advanced level like Machine learning, Artificial intelligence, etc.
 
+## Various types of soft computing techniques
+There are three types of soft computing techniques which include the following.
+* Artificial Neural Network.
+* Fuzzy Logic.
+* Genetic algorithm.
+
+## [Applications of soft computing](https://wisdomplexus.com/blogs/applications-soft-computing/)
+* Handwritten Script Recognition
+* Image Processing and Data Compression
+* Automotive Systems and Manufacturing
+* Soft computing based Architecture
+* Decision Support System
+* Power System Analysis
+* Bioinformatics
+* Investment and Trading
 
 
 # MODULE - 2
