@@ -10,8 +10,11 @@
 * Soft computing
 * Hard computing
 
+## [What is Soft computing](https://www.youtube.com/watch?v=qiwTn-JMNO0&list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-&index=2&t=465s)?
 
-## What is Soft computing?
+![Screenshot from 2021-12-01 23-04-30](https://user-images.githubusercontent.com/42698268/144294008-cff97746-0c38-466f-b191-f2b2964f7d61.png)
+
+
 * Soft computing is defined as a group of computational techniques based on artificial intelligence (human like decision) and natural selection that provides quick and cost effective solution to very complex problems for which analytical (hard computing) formulations do not exist.
 * Soft computing is an important branch of computational intelligence, where fuzzy logic, probability theory, neural networks, and genetic algorithms are synergistically used to mimic the reasoning and decision making of a human.
 * Soft Computing techniques are used by various medical applications such as Medical Image Registration Using Genetic Algorithm, Machine Learning techniques to solve prognostic problems in medical domain, Artificial Neural Networks in diagnosing cancer and Fuzzy Logic in various diseases
@@ -113,6 +116,44 @@ There are three types of soft computing techniques which include the following.
 
 # MODULE - 2
 
+## [Overview of biological neuron](https://www.youtube.com/watch?v=MqABY2u5q9Y)
+
+![Screenshot from 2021-12-01 23-28-40](https://user-images.githubusercontent.com/42698268/144288264-bcb61d79-75bd-48af-bb83-283e56ea2d3f.png)
+
+[something more about biological neuron](https://www.youtube.com/watch?v=0aDq6ax6kGQ)
+![Screenshot from 2021-12-01 23-30-45](https://user-images.githubusercontent.com/42698268/144289526-50fe7bc2-248f-4404-8fc9-a5d5b4958fd9.png)
+
+
+![Screenshot from 2021-12-01 23-30-59](https://user-images.githubusercontent.com/42698268/144289564-46b6c1ed-04d9-4a07-be7e-4d858b4771f4.png)
+
+
+
+![Screenshot from 2021-12-01 23-31-38](https://user-images.githubusercontent.com/42698268/144289581-0d2287a2-aa07-461b-920c-c115eb0d038b.png)
+
+
+
+![Screenshot from 2021-12-01 23-32-53](https://user-images.githubusercontent.com/42698268/144289598-86cc7151-213a-4509-9ccc-e92eed5d5f96.png)
+
+
+![Screenshot from 2021-12-01 23-34-19](https://user-images.githubusercontent.com/42698268/144289611-7907b5ca-6836-4b2a-87aa-c71560226e1b.png)
+
+
+
+![Screenshot from 2021-12-01 23-34-34](https://user-images.githubusercontent.com/42698268/144289622-51a4c970-8c30-43f0-ac14-f315858aa0ca.png)
+
+
+
+
+![Screenshot from 2021-12-01 23-36-16](https://user-images.githubusercontent.com/42698268/144289625-82987371-2c40-4784-86e2-4d0835939e85.png)
+
+
+
+
+
+![Screenshot from 2021-12-01 23-36-38](https://user-images.githubusercontent.com/42698268/144289636-c9f0e20a-840f-471f-8786-f2b23b90d50f.png)
+
+
+
 ## Biological neural network vs Artificial neural network
 
 * Biological neural networks are made of oscillators — this gives them the ability to filter inputs and to resonate with noise. It also gives them the ability to retain hidden firing patterns.
@@ -120,8 +161,15 @@ There are three types of soft computing techniques which include the following.
 * The interactions of different types of noise with different elements of artificial neural networks is still a wide-open research topic. We know noise can be used to regularize their performance or to help avoid local minimums in gradient descent.
 * The brain’s ability to restructure its connections is called synaptic plasticity, and it is achieved through Long-Term Potentiation. Artificial neural networks determine their connectivity using gradient descent during training. The gradient is calculated using backpropagation, which we can compare to Hebbian Long-Term Potentiation.
 
+## Mathematical models of neurons
 
-## Artificial neural networks
+![Screenshot from 2021-12-01 23-43-03](https://user-images.githubusercontent.com/42698268/144290522-fed638d6-3b9c-4d60-8bdc-f52f42a28da3.png)
+![Screenshot from 2021-12-01 23-43-39](https://user-images.githubusercontent.com/42698268/144290552-1cb1de34-9f6d-4e4d-9e1b-76ef74311d78.png)
+
+
+
+
+## [Artificial neural networks](https://youtu.be/qYzr845pIXk)
 * Artificial neural network is an efficient computing system whose structure is defined by biological neural network
 Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems inspired by the biological neural networks that constitute animal brains. An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain.
 
@@ -149,24 +197,24 @@ Artificial neural networks (ANNs), usually simply called neural networks (NNs), 
 ![Screenshot from 2021-11-30 09-32-18](https://user-images.githubusercontent.com/42698268/143984046-b422fec0-b206-4b6d-b91c-60c6b9c4106d.png)
 
 
-## Single layer network
+## [Single layer network](https://youtu.be/_5IoG_EvH0w)
 
 ![Screenshot from 2021-11-30 09-43-59](https://user-images.githubusercontent.com/42698268/143985089-dd07828d-3d51-451f-aba7-922b2f69a465.png)
 
-## Multi layer network
+## [Multi layer network](https://youtu.be/_5IoG_EvH0w)
 
 ![Screenshot from 2021-11-30 09-48-35](https://user-images.githubusercontent.com/42698268/143985113-16c797b6-01a8-43df-9e2c-fff5d4636632.png)
 
 
-## Back propogation
+## [Back propogation](https://youtu.be/CMNJF6D02R8)
 ![Screenshot from 2021-11-30 09-54-02](https://user-images.githubusercontent.com/42698268/143985447-9d6a923e-fafa-4f62-a6c1-13f84aa36109.png)
 
 
 
-# Types of machine learning techniques: Supervised, unsupervised and reinforcement learning
+# [Types of machine learning techniques: Supervised, unsupervised and reinforcement learning](https://youtu.be/4dwsSz_fNSQ)
 ![Screenshot from 2021-11-30 01-01-45](https://user-images.githubusercontent.com/42698268/143930784-47d6708e-dd1b-450e-9d89-9c9f572f89bc.png)
 
-# Difference between Supervised, unsupervised and reinforcement learning
+# [Difference between Supervised, unsupervised and reinforcement learning](https://youtu.be/1FZ0A1QCMWc)
 
 ![Screenshot from 2021-11-30 01-05-03](https://user-images.githubusercontent.com/42698268/143931298-a5d2f0a6-76c9-4e11-8361-2d90012f68d8.png)
 
@@ -195,7 +243,88 @@ Artificial neural networks (ANNs), usually simply called neural networks (NNs), 
 ![Screenshot from 2021-11-30 01-27-17](https://user-images.githubusercontent.com/42698268/143934171-5674bca9-b9d8-40d0-ad01-a28a8133e307.png)
 
 
-# Fuzzy logic
+## [ANN Architecture](https://www.youtube.com/watch?v=Rot914ToOOI)
+
+![Screenshot from 2021-12-01 23-57-27](https://user-images.githubusercontent.com/42698268/144293875-1e599129-b5b9-4eaf-8b31-8ff4493240df.png)
+
+
+## [Perceptrons Learning rule](https://www.youtube.com/watch?v=1vEh29LM8MI)
+
+
+
+![Screenshot from 2021-12-02 00-21-13](https://user-images.githubusercontent.com/42698268/144299386-1df8b8c5-7094-47fb-a5fa-5381d147945a.png)
+
+
+# MODULE 3
+
+## [Competitive learning](https://www.youtube.com/watch?v=lvJ8YcYTyx8)
+
+![Screenshot from 2021-12-02 00-55-24](https://user-images.githubusercontent.com/42698268/144301798-a36079fb-1282-4b61-bd48-ca1074a06810.png)
+
+![Screenshot from 2021-12-02 00-55-59](https://user-images.githubusercontent.com/42698268/144301828-3e41b016-7de8-4fa6-8ec3-26e67e9c611d.png)
+
+
+![Screenshot from 2021-12-02 00-58-11](https://user-images.githubusercontent.com/42698268/144301843-dc120449-7c25-495f-8bfc-a4bc2a1d8c66.png)
+
+
+![Screenshot from 2021-12-02 00-58-26](https://user-images.githubusercontent.com/42698268/144301858-1e256e4a-1ec9-464f-b6a0-f41d7053d663.png)
+
+
+
+![Screenshot from 2021-12-02 00-58-43](https://user-images.githubusercontent.com/42698268/144301867-f24b43f9-c087-46aa-9d61-1e51daf4b9a5.png)
+
+
+### What Does Competitive Learning Mean?
+* A Competitive learning is an artificial neural network learning process where different neurons or processing elements compete on who is allowed to learn to represent the current input.
+
+* Competitive learning is a type of unsupervised learning model used in machine learning and artificial intelligence systems. Some of the interesting new formats of machine learning projects are partially based on competitive learning include self-organizing component neural networks. That makes this an integral idea in the machine learning community.
+
+
+In a competitive learning model, there are hierarchical sets of units in the network with inhibitory and excitatory connections. The excitatory connections are between individual layers and the inhibitory connections are between units in layered clusters. Units in a cluster are either active or inactive.
+
+Scientists explain that the configuration of active units represents an input pattern to be sent to the next level. In processes like vector quantization, professionals can see the principles of competitive learning at work. Competitive learning also exists alongside other learning models such as ensemble learning, where more than one learning unit works together in a dedicated effort toward a result.
+
+### [Few more things about competitive learning](https://www.tutorialspoint.com/artificial_neural_network/artificial_neural_network_unsupervised_learning.htm)
+
+It is concerned with unsupervised training in which the output nodes try to compete with each other to represent the input pattern. To understand this learning rule we will have to understand competitive net which is explained as follows −
+
+Basic Concept of Competitive Network
+
+This network is just like a single layer feed-forward network having feedback connection between the outputs. The connections between the outputs are inhibitory type, which is shown by dotted lines, which means the competitors never support themselves.
+
+
+
+
+![basic_concept](https://user-images.githubusercontent.com/42698268/144301512-243f9e44-efa5-4683-a7de-467d3d0f8b5e.png)
+
+
+Basic Concept of Competitive Learning Rule
+
+As said earlier, there would be competition among the output nodes so the main concept is - during training, the output unit that has the highest activation to a given input pattern, will be declared the winner. This rule is also called Winner-takes-all because only the winning neuron is updated and the rest of the neurons are left unchanged.
+
+
+![Screenshot from 2021-12-02 01-05-47](https://user-images.githubusercontent.com/42698268/144301722-d31b6a73-b221-4514-bcda-62766f44c8fd.png)
+
+
+
+## [Kohonen Self-organizing networks](https://www.youtube.com/watch?v=WCYlimxurkg)
+
+![Screenshot from 2021-12-02 01-11-50](https://user-images.githubusercontent.com/42698268/144302569-63544563-ad0b-44ac-896e-1ed050848acb.png)
+
+
+## [Hebbian learning](https://www.youtube.com/watch?v=egvQ-O4dQnU)
+
+![Screenshot from 2021-12-02 01-15-09](https://user-images.githubusercontent.com/42698268/144303059-bb1bca7b-81be-4434-b9e3-b6f2cb220b21.png)
+
+
+![Screenshot from 2021-12-02 01-15-29](https://user-images.githubusercontent.com/42698268/144303063-ea9e65bd-cd68-42a7-ac83-a6b36811d34d.png)
+
+
+
+
+
+
+# [Fuzzy logic](https://www.youtube.com/watch?v=vof2vhfqoBo)
 
 
 ![Screenshot from 2021-11-30 10-01-14](https://user-images.githubusercontent.com/42698268/143986274-8818902d-0aed-42e2-8002-b199ad466fb5.png)
@@ -211,7 +340,7 @@ Artificial neural networks (ANNs), usually simply called neural networks (NNs), 
 ![Screenshot from 2021-11-30 10-05-06](https://user-images.githubusercontent.com/42698268/143986296-54817094-3aec-4362-9610-0ef650175467.png)
 
 
-## Operations in fuzzy logic
+## [Operations in fuzzy logic](https://youtu.be/o-2O4fmIu3E)
 
 ![Screenshot from 2021-11-30 10-07-00](https://user-images.githubusercontent.com/42698268/143986435-2bf73b12-7874-4e0a-a408-da7e6b994426.png)
 
