@@ -1,3 +1,15 @@
+# MODULE 1
+
+## [Introduction](https://www.youtube.com/watch?v=4D55Cmj2t-A&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=2)
+
+![Screenshot from 2021-12-02 19-07-56](https://user-images.githubusercontent.com/42698268/144433306-5f62b9b3-0989-487d-81fb-d64c6208142a.png)
+
+## [Topologies](https://www.youtube.com/watch?v=uDulBxDb7GM&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=5)
+
+![Screenshot from 2021-12-02 19-46-09](https://user-images.githubusercontent.com/42698268/144439190-a96c8532-d16b-4f7a-bd01-68ea6ce6adfd.png)
+
+
+
 # OSI Model
 
 ![Screenshot from 2021-11-27 00-02-31](https://user-images.githubusercontent.com/42698268/143620144-e4ddcc13-7ef7-4f96-a1b0-7ea368ba34eb.png)
