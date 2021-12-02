@@ -19,6 +19,7 @@ a musical composition.
 
 
 # 1. [Introduction](https://www.youtube.com/watch?v=4D55Cmj2t-A&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=2)
+* A computer network is a collection of various computing devices, and it's purpose is to share the data by connecting various heterogenous and homogeneous devices
 
 ![Screenshot from 2021-12-02 19-07-56](https://user-images.githubusercontent.com/42698268/144433306-5f62b9b3-0989-487d-81fb-d64c6208142a.png)
 
