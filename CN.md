@@ -1,16 +1,203 @@
 # MODULE 1
 
-## [Introduction](https://www.youtube.com/watch?v=4D55Cmj2t-A&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=2)
+# 0. Representation of data and its flow network
+
+## Data Representation
+* Data refers to the symbols that represent people, events, things, and ideas. Data can be a name, a
+number, the colors in a photograph, or the notes in
+a musical composition.
+* Data Representation refers to the form in which data is stored, processed, and transmitted.
+* Devices such as smartphones, iPods, and computers store data in digital formats that can be handled by electronic circuitry
+* Digitization is the process of converting information, such as text, numbers, photo, or music, into digital data that can be manipulated by electronic devices.
+* The Digital Revolution has evolved through four phases, beginning with big, expensive, standalone computers, and progressing to today’s digital world in which small, inexpensive digital devices are everywhere.
+* The 0s and 1s used to represent digital data are referred to as binary digits — from this term we get the word bit that stands for binary digit.
+* A bit is a 0 or 1 used in the digital representation of data.
+* A digital file, usually referred to simply as a file, is a named collection of data that exits on a storage medium, such as a hard disk, CD, DVD, or flash drive.
+
+
+
+
+# 1. [Introduction](https://www.youtube.com/watch?v=4D55Cmj2t-A&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=2)
 
 ![Screenshot from 2021-12-02 19-07-56](https://user-images.githubusercontent.com/42698268/144433306-5f62b9b3-0989-487d-81fb-d64c6208142a.png)
 
-## [Topologies](https://www.youtube.com/watch?v=uDulBxDb7GM&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=5)
+# 2. Types of Network Topology:
+
+
+The arrangement of a network that comprises nodes and connecting lines via sender and receiver is referred to as network topology. The various network topologies are:
+
+# [Types of network topology](https://www.geeksforgeeks.org/types-of-network-topology/)
+
+
+## [Topologies](https://www.youtube.com/watch?v=uDulBxDb7GM&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=5) Mesh and Star
 
 ![Screenshot from 2021-12-02 19-46-09](https://user-images.githubusercontent.com/42698268/144439190-a96c8532-d16b-4f7a-bd01-68ea6ce6adfd.png)
 
+## 1. Mesh topology
+
+In a mesh topology, every device is connected to another device via a particular channel. 
+
+![1-75](https://user-images.githubusercontent.com/42698268/144440132-614bc9cc-943f-4fb5-9a4e-fcfca3bb2238.png)
 
 
-# OSI Model
+Figure 1: Every device is connected with another via dedicated channels. These channels are known as links. 
+ 
+
+* Suppose, N number of devices are connected with each other in a mesh topology, the total number of ports that are required by each device is N-1. In Figure 1, there are 5 devices connected to each other, hence the total number of ports required by each device is 4. Total number of ports required=N*(N-1).
+* Suppose, N number of devices are connected with each other in a mesh topology, then the total number of dedicated links required to connect them is NC2 i.e. N(N-1)/2. In Figure 1, there are 5 devices connected to each other, hence the total number of links required is 5*4/2 = 10.
+
+***Advantages of this topology:***
+
+* It is robust.
+* The fault is diagnosed easily. Data is reliable because data is transferred among the devices through dedicated channels or links.
+* Provides security and privacy.
+
+
+***Problems with this topology :*** 
+
+* Installation and configuration are difficult.
+* The cost of cables is high as bulk wiring is required, hence suitable for less number of devices.
+* The cost of maintenance is high.
+
+## 2. Star Topology :
+In star topology, all the devices are connected to a single hub through a cable. This hub is the central node and all other nodes are connected to the central node. The hub can be passive in nature i.e., not an intelligent hub such as broadcasting devices, at the same time the hub can be intelligent known as an active hub. Active hubs have repeaters in them. 
+
+![2-49](https://user-images.githubusercontent.com/42698268/144440578-0682bc99-d45e-4722-9a1c-5ed604045323.png)
+
+Figure 2: A star topology having four systems connected to a single point of connection i.e. hub.
+
+***Advantages of this topology :***
+
+* If N devices are connected to each other in a star topology, then the number of cables required to connect them is N. So, it is easy to set up.
+* Each device requires only 1 port i.e. to connect to the hub, therefore the total number of ports required is N.
+
+
+***Problems with this topology :***
+
+* If the concentrator (hub) on which the whole topology relies fails, the whole system will crash down.
+* The cost of installation is high.
+* Performance is based on the single concentrator i.e. hub.
+
+
+## [Bus and Ring](https://www.youtube.com/watch?v=7t0YJWTjmdI&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=6)
+
+![Screenshot from 2021-12-02 20-27-10](https://user-images.githubusercontent.com/42698268/144446490-9e9db9d5-4cb2-4ff1-b1a7-8a12f4424962.png)
+
+## 3. Bus Topology
+
+Bus topology is a network type in which every computer and network device is connected to a single cable. It transmits the data from one end to another in a single direction. No bi-directional feature is in bus topology. It is a multi-point connection and a non-robust topology because if the backbone fails the topology crashes.
+
+
+![3-55](https://user-images.githubusercontent.com/42698268/144447718-94320b11-e961-48f4-808f-80ed6e94317a.png)
+
+Figure 3: A bus topology with shared backbone cable. The nodes are connected to the channel via drop lines. 
+
+***Advantages of this topology :***
+
+* If N devices are connected to each other in a bus topology, then the number of cables required to connect them is 1, which is known as backbone cable, and N drop lines are required.
+* The cost of the cable is less as compared to other topologies, but it is used to build small networks.
+ 
+ ***Problems with this topology :***
+
+* If the common cable fails, then the whole system will crash down.
+* If the network traffic is heavy, it increases collisions in the network. To avoid this, various protocols are used in the MAC layer known as Pure Aloha, Slotted Aloha, CSMA/CD, etc.
+* Security is very low.
+
+
+## 4. Ring Topology :
+In this topology, it forms a ring connecting devices with its exactly two neighboring devices.
+
+A number of repeaters are used for Ring topology with a large number of nodes, because if someone wants to send some data to the last node in the ring topology with 100 nodes, then the data will have to pass through 99 nodes to reach the 100th node. Hence to prevent data loss repeaters are used in the network.
+The transmission is unidirectional, but it can be made bidirectional by having 2 connections between each Network Node, it is called Dual Ring Topology.
+
+
+![4-32](https://user-images.githubusercontent.com/42698268/144448334-0c35ee6d-45ee-4793-9d8a-e542b79b607b.png)
+
+Figure 4: A ring topology comprises 4 stations connected with each forming a ring. 
+
+***The following operations take place in ring topology are :***
+ 
+
+1. One station is known as a monitor station which takes all the responsibility to perform the operations.
+2. To transmit the data, the station has to hold the token. After the transmission is done, the token is to be released for other stations to use.
+3. When no station is transmitting the data, then the token will circulate in the ring.
+4. There are two types of token release techniques: Early token release releases the token just after transmitting the data and Delay token release releases the token after the acknowledgment is received from the receiver.
+
+
+***Advantages of this topology :***
+
+* The possibility of collision is minimum in this type of topology.
+* Cheap to install and expand.
+
+
+***Problems with this topology :***
+
+* Troubleshooting is difficult in this topology.
+* The addition of stations in between or removal of stations can disturb the whole topology.
+* Less secure.
+
+
+## 5. Tree Topology :
+This topology is the variation of Star topology. This topology has a hierarchical flow of data. 
+
+
+![tree-topology2](https://user-images.githubusercontent.com/42698268/144448768-8bce0be1-602b-4707-8b91-3ca189a6354a.png)
+
+
+Figure 5: In this, the various secondary hubs are connected to the central hub which contains the repeater. In this data flow from top to bottom i.e. from the central hub to secondary and then to the devices or from bottom to top i.e. devices to the secondary hub and then to the central hub. It is a multi-point connection and a non-robust topology because if the backbone fails the topology crashes.
+ 
+
+***Advantages of this topology :***
+
+* It allows more devices to be attached to a single central hub thus it decreases the distance that is traveled by the signal to come to the devices.
+* It allows the network to get isolate and also prioritize from different computers.
+
+
+***Problems with this topology :***  
+
+* If the central hub gets fails the entire system fails.
+* The cost is high because of cabling.
+
+
+
+# 3. [Protocol and standard in computer network](https://www.geeksforgeeks.org/protocol-and-standard-in-computer-networks/)
+
+## Protocol :
+In Order to make communication successful between devices , some rules and procedures should be agreed upon at the sending and receiving ends of the system. Such rules and procedures are called as Protocols . Different types of protocols are used for different types of communication.
+
+
+![protocol](https://user-images.githubusercontent.com/42698268/144449657-d28139e8-2a79-40ab-a414-7df2a450f3a7.png)
+
+In above diagrams Protocols are shown as set of rules . Such that Communication between Sender and Receiver is not possible without Protocol.
+
+## Standards : 
+
+Standards are the set of rules  for data communication that are needed for  exchange of information among devices. It is important to follow Standards which are created by various  Standard Organization like IEEE , ISO , ANSI etc.
+
+***Types of Standards :***
+
+Standards are of two types :
+
+* De Facto Standard.
+* De Jure  Standard.
+
+
+***De Facto Standard*** :  The meaning of the work ” De Facto ”  is ” By Fact ”  or “By Convention”.
+These are the standard s that have not been approved by any Organization , but have been adopted as  Standards  because of it’s widespread use. Also , sometimes these standards are often established by Manufacturers.
+
+For example :   Apple  and Google are two companies which established their own rules on their products which are different . Also they use some same standard rules for manufacturing for their products.
+
+***De Jure Standard*** :  The meaning of the word “De Jure”  is  “By Law” or “By  Regulations” . 
+Thus , these are the  standards that have been approved by officially recognized body like ANSI , ISO , IEEE etc. These are the standard which are important to follow if it is required or needed.
+
+***For example*** :  All the data communication standard  protocols like SMTP , TCP , IP , UDP etc. are important to follow the same when we needed them. 
+
+
+
+
+
+
+# 4. OSI Model
 
 ![Screenshot from 2021-11-27 00-02-31](https://user-images.githubusercontent.com/42698268/143620144-e4ddcc13-7ef7-4f96-a1b0-7ea368ba34eb.png)
 
@@ -162,6 +349,213 @@ The functions of the Application layer are :
   
 OSI model acts as a reference model and is not implemented on the Internet because of its late invention. The current model being used is the TCP/IP model. 
 
+# 5. Types of Transmission Media
+
+In data communication terminology, a transmission medium is a physical path between the transmitter and the receiver i.e. it is the channel through which data is sent from one place to another. Transmission Media is broadly classified into the following types:  
+
+![TypesOfTransmissionMedia](https://user-images.githubusercontent.com/42698268/144472452-30feb75c-5b76-4f8c-ab84-8c6d41ca3b74.png)
+
+## 1. Guided Media: 
+It is also referred to as Wired or Bounded transmission media. Signals being transmitted are directed and confined in a narrow pathway by using physical links. 
+
+Features:
+* High Speed
+* Secure
+* Used for comparatively shorter distances
+
+There are 3 major types of Guided Media: 
+
+### (i) Twisted Pair Cable –
+
+It consists of 2 separately insulated conductor wires wound about each other. Generally, several such pairs are bundled together in a protective sheath. They are the most widely used Transmission Media. Twisted Pair is of two types: 
+
+* ***Unshielded Twisted Pair (UTP):***
+
+UTP consists of two insulated copper wires twisted around one another. This type of cable has the ability to block interference and does not depend on a physical shield for this purpose. It is used for telephonic applications.
+
+
+![UntitledDiagram321](https://user-images.githubusercontent.com/42698268/144473822-c530ddd3-9531-4f88-9f3b-675ea45867c1.png)
+
+
+
+Advantages: 
+
+⇢ Least expensive
+
+⇢ Easy to install
+
+⇢ High-speed capacity
+
+⇢ Susceptible to external interference
+
+⇢ Lower capacity and performance in comparison to STP
+
+⇢ Short distance transmission due to attenuation
+
+
+* ***Shielded Twisted Pair (STP):***
+This type of cable consists of a special jacket (a copper braid covering or a foil shield) to block external interference. It is used in fast-data-rate Ethernet and in voice and data channels of telephone lines.
+
+![UntitledDiagram331](https://user-images.githubusercontent.com/42698268/144474193-c727d8bf-379a-46f3-95ad-672cbcb0b33b.png)
+
+Advantages: 
+
+⇢ Better performance at a higher data rate in comparison to UTP
+
+⇢ Eliminates crosstalk
+
+⇢ Comparatively faster
+
+⇢ Comparatively difficult to install and manufacture
+
+⇢ More expensive
+
+⇢ Bulky
+
+
+### (ii) Coaxial Cable – 
+It has an outer plastic covering containing an insulation layer made of PVC or Teflon and 2 parallel conductors each having a separate insulated protection cover. The coaxial cable transmits information in two modes: Baseband mode(dedicated cable bandwidth) and Broadband mode(cable bandwidth is split into separate ranges). Cable TVs and analog television networks widely use Coaxial cables. 
+
+
+![UntitledDiagram72](https://user-images.githubusercontent.com/42698268/144474314-9e21e703-33ff-455d-a770-2436c10a963f.png)
+
+Advantages: 
+
+* High Bandwidth
+* Better noise Immunity
+* Easy to install and expand
+* Inexpensive
+
+
+Disadvantages:  
+
+* Single cable failure can disrupt the entire network
+
+
+### (iii) Optical Fiber Cable – 
+It uses the concept of reflection of light through a core made up of glass or plastic. The core is surrounded by a less dense glass or plastic covering called the cladding. It is used for the transmission of large volumes of data. 
+
+The cable can be unidirectional or bidirectional. The WDM (Wavelength Division Multiplexer) supports two modes, namely unidirectional and bidirectional mode.
+
+
+![UntitledDiagram62](https://user-images.githubusercontent.com/42698268/144474491-bb9b9ca4-bdf8-4bad-856b-32d9ccfef530.png)
+
+
+Advantages:  
+
+* Increased capacity and bandwidth
+* Lightweight
+* Less signal attenuation
+* Immunity to electromagnetic interference
+* Resistance to corrosive materials
+
+
+Disadvantages:  
+
+* Difficult to install and maintain
+* High cost
+* Fragile
+
+### (iv) Stripline
+Stripline is a transverse electromagnetic (TEM) transmission line medium invented by Robert M. Barrett of the Air Force Cambridge Research Centre in the 1950s. Stripline is the earliest form of the planar transmission line. It uses a conducting material to transmit high-frequency waves it is also called a waveguide. This conducting material is sandwiched between two layers of the ground plane which are usually shorted to provide EMI immunity.
+
+### (v) Microstripline
+
+In this, the conducting material is separated from the ground plane by a layer of dielectric.
+
+
+## 2. Unguided Media: 
+It is also referred to as Wireless or Unbounded transmission media. No physical medium is required for the transmission of electromagnetic signals. 
+
+Features:  
+
+* The signal is broadcasted through air
+* Less Secure
+* Used for larger distances
+
+
+There are 3 types of Signals transmitted through unguided media: 
+
+* (i) Radio waves – 
+
+These are easy to generate and can penetrate through buildings. The sending and receiving antennas need not be aligned. Frequency Range:3KHz – 1GHz. AM and FM radios and cordless phones use Radio waves for transmission. 
+
+
+![radiowave3](https://user-images.githubusercontent.com/42698268/144474869-51f4b81b-5f45-45be-bf91-f6ad2007bd8c.png)
+
+Further Categorized as (i) Terrestrial and (ii) Satellite. 
+
+
+* (ii) Microwaves – 
+
+It is a line of sight transmission i.e. the sending and receiving antennas need to be properly aligned with each other. The distance covered by the signal is directly proportional to the height of the antenna. Frequency Range:1GHz – 300GHz. These are majorly used for mobile phone communication and television distribution. 
+
+
+![microwave300x81](https://user-images.githubusercontent.com/42698268/144474981-916b8e47-a875-4468-af0f-e8902b1c524f.png)
+
+
+## (iii) Infrared – 
+Infrared waves are used for very short distance communication. They cannot penetrate through obstacles. This prevents interference between systems. Frequency Range:300GHz – 400THz. It is used in TV remotes, wireless mouse, keyboard, printer, etc.
+
+
+![infrared1](https://user-images.githubusercontent.com/42698268/144475053-b202c768-01e9-438b-a72e-557375ac80f4.png)
+
+
+
+# MODULE - 2
+
+# [LAN](https://www.geeksforgeeks.org/local-area-network-lan-technologies/)
+
+Local Area Network (LAN) is a data communication network connecting various terminals or computers within a building or limited geographical area. The connection among the devices could be wired or wireless. Ethernet, Token Ring and Wireless LAN using IEEE 802.11 are examples of standard LAN technologies. 
+
+LAN has the following topologies: 
+ 
+
+* Star Topology
+* Bus Topology
+* Ring Topology
+* Mesh Topology
+* Hybrid Topology
+* Tree Topology
+
+
+Ethernet:- 
+
+Ethernet is the most widely used LAN technology, which is defined under IEEE standards 802.3. The reason behind its wide usability is Ethernet is easy to understand, implement, maintain, and allows low-cost network implementation. Also, Ethernet offers flexibility in terms of topologies that are allowed. Ethernet generally uses Bus Topology. Ethernet operates in two layers of the OSI model, Physical Layer, and Data Link Layer. For Ethernet, the protocol data unit is Frame since we mainly deal with DLL. In order to handle collision, the Access control mechanism used in Ethernet is CSMA/CD. 
+
+Manchester Encoding Technique is used in Ethernet. 
+
+
+## [Wired LAN](https://www.lifewire.com/wired-vs-wireless-networking-816352)
+
+Computer networks for the home and small business use either wired or wireless technology. Wired Ethernet was once the common choice for homes and businesses. However, Wi-Fi and other wireless options are now prevalent in homes, while many businesses still rely on wired networks.
+
+
+Both methods have advantages over each other, and both represent viable options for home and other local area networks (LANs). We reviewed both technologies to help you decide which is best for your small network.
+
+
+![Screenshot from 2021-12-02 23-22-23](https://user-images.githubusercontent.com/42698268/144476512-ebdbae32-8c1f-41a1-9ae2-704dcaf7a288.png)
+
+
+![Screenshot from 2021-12-02 23-23-37](https://user-images.githubusercontent.com/42698268/144476936-85ccd3b9-e949-497c-86a1-7b58f569ce0c.png)
+
+
+![Screenshot from 2021-12-02 23-23-56](https://user-images.githubusercontent.com/42698268/144476947-aa098749-c9ed-419d-8814-577c462f63b9.png)
+
+
+![Screenshot from 2021-12-02 23-26-00](https://user-images.githubusercontent.com/42698268/144477085-c6e9f2b1-921f-498b-8cc1-19f85ec45795.png)
+
+
+
+![Screenshot from 2021-12-02 23-24-19](https://user-images.githubusercontent.com/42698268/144477109-a07bec1a-eb99-429f-8ce8-532a59d46c29.png)
+
+
+![Screenshot from 2021-12-02 23-24-26](https://user-images.githubusercontent.com/42698268/144477122-60ae09bc-8c55-4845-a023-259ac23c6b7c.png)
+
+![Screenshot from 2021-12-02 23-24-44](https://user-images.githubusercontent.com/42698268/144477145-e7509194-9749-42dd-a801-2fa4f981da21.png)
+
+
+
 # IP addresses
 
 ![Screenshot from 2021-11-27 20-40-08](https://user-images.githubusercontent.com/42698268/143686851-229d4b54-32c2-4967-b32b-3ac9ff609a17.png)
@@ -176,6 +570,7 @@ OSI model acts as a reference model and is not implemented on the Internet becau
        * Class D - 2^28 IP addresses - 256 Million addresses are there, but only <1000 are used, so this is its disadvantage 
        * Class E - 2^28 IP addresses( we don't know anyhting about class E)
        * one is used for millitary and other is used for scientific and experimental purposes.
+
 
 
 # Network devices 
@@ -257,13 +652,6 @@ Example: Telephone Network in which there is communication between two persons b
 Channel Capacity=2* Bandwidth*propagation Delay
 
 ![fullduplex](https://user-images.githubusercontent.com/42698268/143721768-f17eaac3-3b39-413f-9ab0-20d749247d00.png)
-
-# Types of Network Topology:
-
-
-The arrangement of a network that comprises nodes and connecting lines via sender and receiver is referred to as network topology. The various network topologies are:
-
-# [Types of network topology](https://www.geeksforgeeks.org/types-of-network-topology/)
 
 
 
