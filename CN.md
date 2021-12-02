@@ -509,6 +509,8 @@ Infrared waves are used for very short distance communication. They cannot penet
 
 Local Area Network (LAN) is a data communication network connecting various terminals or computers within a building or limited geographical area. The connection among the devices could be wired or wireless. Ethernet, Token Ring and Wireless LAN using IEEE 802.11 are examples of standard LAN technologies. 
 
+Ex:- School,Bank,College,etc.
+
 LAN has the following topologies: 
  
 
