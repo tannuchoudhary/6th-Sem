@@ -193,7 +193,8 @@ Thus , these are the  standards that have been approved by officially recognized
 ***For example*** :  All the data communication standard  protocols like SMTP , TCP , IP , UDP etc. are important to follow the same when we needed them. 
 
 
-
+## protocol vs standard
+A protocol defines a set of rules used by two or more parties to interact between themselves. A standard is a formalized protocol accepted by most of the parties that implement it.
 
 
 
