@@ -1,4 +1,5 @@
 # MODULE 1
+![CNmodule1](https://user-images.githubusercontent.com/76476144/144490890-27d68f02-a800-4506-b1f6-9a5e925e4bf7.jpeg)
 
 # 0. Representation of data and its flow network
 
@@ -504,6 +505,7 @@ Infrared waves are used for very short distance communication. They cannot penet
 
 
 # MODULE - 2
+![CNmodule2](https://user-images.githubusercontent.com/76476144/144490999-cda91ebc-da3b-4819-ab73-4fae875a8410.jpeg)
 
 # [LAN](https://www.geeksforgeeks.org/local-area-network-lan-technologies/)
 
