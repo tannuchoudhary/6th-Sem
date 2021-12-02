@@ -559,8 +559,47 @@ Both methods have advantages over each other, and both represent viable options 
 
 ![Screenshot from 2021-12-02 23-24-44](https://user-images.githubusercontent.com/42698268/144477145-e7509194-9749-42dd-a801-2fa4f981da21.png)
 
+# Difference between LAN and VLAN
+LAN stands for Local Area Network is a group of network devices which allow the communication between connected devices. On the other hand VLAN stands for Virtual Local Area Network which is used to enhance the performance of LANs (Local Area Networks).
 
+The main difference between LAN (Local Area Network) and VLAN (Virtual Local Area Network) is that LAN work on single broadcast domain on the other hand VLAN works on multiple broadcast domain and In local are network, the Packet is advertised to each device while In virtual local area network, packet is send to specific broadcast domain.
 
+![Screenshot (30)](https://user-images.githubusercontent.com/76476144/144493773-f5481d7e-8d76-4eae-b34d-d3e79a081652.png)
+
+# Techniques of Bandwidth utilization: 
+
+## What is Bandwidth Utilization?
+
+Bandwidth utilization can be defined as the amount of bandwidth consumed on a network or network segment and the breakdown of its composite traffic. 
+
+1.Multiplexing
+Multiplexing is a technique by which different analog and digital streams of transmission can be simultaneously processed over a shared link. Multiplexing divides the high capacity medium into low capacity logical medium which is then shared by different streams.
+
+Communication is possible over the air (radio frequency), using a physical media (cable), and light (optical fiber). All mediums are capable of multiplexing.
+
+Multiplexing refers to multiple sources but one link. In the multiplexing approach, all the devices are connected to MUX and one line to host. The link carries multiple channels of information and the number of lines in it is the same as the number of lines out. 
+
+## The different types of Multiplexers:-
+   ## 1. Frequency Division Multiplexing
+   Frequency division multiplexing (FDM) is a technique of multiplexing which means combining more than one signal over a shared medium. In FDM, signals of different
+   frequencies are combined for concurrent transmission.
+   
+   Disadvantages of FDM:
+      It has only one drawback that it cannot utilize the full capacity of the cable. 
+   
+  ## 2.  Time Division Multiplexing
+   TDM is applied primarily on digital signals but can be applied on analog signals as well. In TDM the shared channel is divided among its user by means of time slot. Each        user can transmit data within the provided time slot only. Digital signals are divided in frames,equivalent to time slot i.e. frame of an optimal size which can be              transmitted in given time slot.
+
+   TDM works in synchronized mode. Both ends, i.e. Multiplexer and De-multiplexer are timely synchronized and both switch to next channel simultaneously.
+        
+  ## 3. Wavelength Division Multiplexing
+   Light has different wavelength (colors). In fiber optic mode, multiple optical carrier signals are multiplexed into an optical fiber by using different wavelengths. This        is an analog multiplexing technique and is done conceptually in the same manner as FDM but uses light as signals.
+      
+ ## Spread spectrum
+ 
+Spread spectrum is a form of wireless communications in which the frequency of the transmitted signal is deliberately varied. This results in a much greater bandwidth than the signal would have if its frequency were not varied.
+  
+  
 # IP addresses
 
 ![Screenshot from 2021-11-27 20-40-08](https://user-images.githubusercontent.com/42698268/143686851-229d4b54-32c2-4967-b32b-3ac9ff609a17.png)
