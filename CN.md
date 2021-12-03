@@ -18,7 +18,7 @@ a musical composition.
 
 
 
-# 1. [Introduction](https://www.youtube.com/watch?v=4D55Cmj2t-A&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=2)
+# 1.L -2 [Introduction](https://www.youtube.com/watch?v=4D55Cmj2t-A&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=2)
 * A computer network is a collection of various computing devices, and it's purpose is to share the data by connecting various heterogenous and homogeneous devices
 
 
@@ -43,8 +43,19 @@ a musical composition.
 
 ![Screenshot from 2021-12-03 13-59-41](https://user-images.githubusercontent.com/42698268/144570712-0554853d-c50c-4a0a-8af1-aff3ce5fb517.png)
 
+# L - 3. TCP/IP protocol suite
 
-# 2. Types of Network Topology:
+* Why different - because OSI model is theoretical model and is fundamental and TCP/IP model is implementable model
+![Screenshot from 2021-12-03 16-07-29](https://user-images.githubusercontent.com/42698268/144588714-60fb18a2-06ac-4b1c-a7fe-66a80e037a8b.png)
+
+# L- 4 Physical layer in computer networks
+
+![Screenshot from 2021-12-03 16-15-27](https://user-images.githubusercontent.com/42698268/144590023-a6c70e77-3db6-4b01-acd9-081271b735c8.png)
+
+![Screenshot from 2021-12-03 16-15-53](https://user-images.githubusercontent.com/42698268/144590042-627e185e-2672-439e-b24c-b3f1828f0094.png)
+
+
+# L - 5 Types of Network Topology:
 
 
 The arrangement of a network that comprises nodes and connecting lines via sender and receiver is referred to as network topology. The various network topologies are:
@@ -180,6 +191,17 @@ Figure 5: In this, the various secondary hubs are connected to the central hub w
 
 * If the central hub gets fails the entire system fails.
 * The cost is high because of cabling.
+
+# L-7 Machester encoding and differential manchester encoding 
+
+## Manchester
+![Screenshot from 2021-12-03 16-21-14](https://user-images.githubusercontent.com/42698268/144590932-4b090dd5-4ba2-4512-8375-42f177c4f558.png)
+
+![Screenshot from 2021-12-03 16-21-32](https://user-images.githubusercontent.com/42698268/144590953-ab5d90e7-8813-4c00-96c8-faa088a80979.png)
+
+## Differential Manchester
+
+![Screenshot from 2021-12-03 16-33-55](https://user-images.githubusercontent.com/42698268/144592218-681c0719-c06f-4088-95b2-97492ce765f9.png)
 
 
 
