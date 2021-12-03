@@ -21,7 +21,28 @@ a musical composition.
 # 1. [Introduction](https://www.youtube.com/watch?v=4D55Cmj2t-A&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=2)
 * A computer network is a collection of various computing devices, and it's purpose is to share the data by connecting various heterogenous and homogeneous devices
 
-![Screenshot from 2021-12-02 19-07-56](https://user-images.githubusercontent.com/42698268/144433306-5f62b9b3-0989-487d-81fb-d64c6208142a.png)
+
+![Screenshot from 2021-12-03 13-44-54](https://user-images.githubusercontent.com/42698268/144570678-68aa65a1-a1d7-496a-a068-7a553048ce57.png)
+
+* Connection is created while sending data from sender to receiver
+* some protocols are defined for both sender and receiver to make communication meaningful
+
+![Screenshot from 2021-12-03 13-45-01](https://user-images.githubusercontent.com/42698268/144570684-0c971cc0-50b5-4819-aad3-dc4a7e0ecf0c.png)
+
+* If sender and rcvr are in same machine then communication is very fast and easy but when sender and rcvr are different machines, and present in different countries, still communication between them is very fast and it does not feel like that we are fetching data from the server present in another country
+* And the communication which is happening between them is following some rules and have functionalities
+
+
+![Screenshot from 2021-12-03 13-49-24](https://user-images.githubusercontent.com/42698268/144570690-110d6540-6ff0-45dc-8342-5ba837a881f9.png)
+
+
+![Screenshot from 2021-12-03 13-52-29](https://user-images.githubusercontent.com/42698268/144570705-483f4871-a982-4e8d-aeb2-dc58c7548f81.png)
+* Error control - To keep check that the data which is getting transferred is not interferred by some external sound, hacker or something else which would change the original data, i.e data should be unchanged and original
+* Flow control - Buffer should be fully filled, which would result in congestion
+* MUX, DEMUX - If our system is receiving msg or mail, then which particular process would handle it
+
+![Screenshot from 2021-12-03 13-59-41](https://user-images.githubusercontent.com/42698268/144570712-0554853d-c50c-4a0a-8af1-aff3ce5fb517.png)
+
 
 # 2. Types of Network Topology:
 
