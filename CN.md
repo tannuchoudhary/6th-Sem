@@ -575,48 +575,119 @@ The main difference between LAN (Local Area Network) and VLAN (Virtual Local Are
 
 # Techniques of Bandwidth utilization: 
 
-***Badwidth overview***
+***1. Badwidth overview***
 Bandwidth, or precisely network bandwidth, is the maximum rate at which data transfer occurs across any particular path of the network. Bandwidth is basically a measure of the amount of data that can be sent and received at any instance of time. That simply means that higher is the bandwidth of a network, larger is the amount of data network can be sending to and from across its path. Be careful not to confuse bandwidth with closely related terms such as the data rate and the throughput. Bandwidth is something that deals with the measurement of capacity and not the speed of data transfer. 
 
-***Units of Measurement :***
+***2. Units of Measurement :***
 Bandwidth is usually measured in bits transferred per second through a path or link. The common units of bandwidth we come across are as follows.
 
 * bps  (Bits per second)
 * Mbps (Megabits per second)
 * Gbps (Gigabits per second)
 
-## What is Bandwidth Utilization?
+***3. What is Bandwidth Utilization?***
 
 Bandwidth utilization can be defined as the amount of bandwidth consumed on a network or network segment and the breakdown of its composite traffic. 
 
-1.Multiplexing
-Multiplexing is a technique by which different analog and digital streams of transmission can be simultaneously processed over a shared link. Multiplexing divides the high capacity medium into low capacity logical medium which is then shared by different streams.
+
+***4. What is Multiplexing***
+* Multiplexing is a technique by which different analog and digital streams of transmission can be simultaneously processed over a shared link. Multiplexing divides the high capacity medium into low capacity logical medium which is then shared by different streams.
+
+* Multiplexing refers to multiple sources but one link. In the multiplexing approach, all the devices are connected to MUX and one line to host. The link carries multiple channels of information and the number of lines in it is the same as the number of lines out. 
+
+* Multiplexing is the process of combining multiple signals (analog or digital), commonly from slow devices, onto one very fast communications link. This sharing is achieved by a device called a Multiplexer (MUX) and Demultiplexer (DEMUX). Multiplexing is performed by combining n input lines to generate one output line i.e. (many to one) by using a device called MUX. This means that MUX has several inputs and one output. By a corresponding device, DEMUX, at the other end separating the signal into several subchannels. Therefore, DEMUX has one input and several outputs
+
+
+![Screenshot from 2021-12-03 13-09-34](https://user-images.githubusercontent.com/42698268/144563951-2f17f797-1836-4c41-88e4-6ea5ad588918.png)
+
+
 
 Communication is possible over the air (radio frequency), using a physical media (cable), and light (optical fiber). All mediums are capable of multiplexing.
 
-Multiplexing refers to multiple sources but one link. In the multiplexing approach, all the devices are connected to MUX and one line to host. The link carries multiple channels of information and the number of lines in it is the same as the number of lines out. 
 
-## The different types of Multiplexers:-
-   ## 1. Frequency Division Multiplexing
-   Frequency division multiplexing (FDM) is a technique of multiplexing which means combining more than one signal over a shared medium. In FDM, signals of different
-   frequencies are combined for concurrent transmission.
+
+***5. The different types of Multiplexers:-***
+
+The different types of multiplexers are as follows:
+  * A. Frequency Division Multiplexing
+  * B. Time Division Multiplexing
+  * C. Wavelength Division Multiplexing
+
+   ## A Frequency Division Multiplexing
+   Frequency division multiplexing (FDM) is a technique of multiplexing which means combining more than one signal over a shared medium. In FDM, signals of different frequencies are combined for concurrent transmission.
    
-   Disadvantages of FDM:
+   The frequency spectrum is divided into logical channels and each user has exclusive access to the channels, it sends signals into different frequency ranges and carries multiple video channels on a single cable. Every signal is modulated onto separate carrier frequencies which are divided by guard bands. All the assignment for non-overlapping frequency ranges from each user or signal on medium. Therefore, all the signals are transmitted at the same time but through different frequencies. The multiplexer accepts inputs and assigns frequency to each device. 
+   
+   ### Disadvantages of FDM:
       It has only one drawback that it cannot utilize the full capacity of the cable. 
    
-  ## 2.  Time Division Multiplexing
-   TDM is applied primarily on digital signals but can be applied on analog signals as well. In TDM the shared channel is divided among its user by means of time slot. Each        user can transmit data within the provided time slot only. Digital signals are divided in frames,equivalent to time slot i.e. frame of an optimal size which can be              transmitted in given time slot.
+  ## B.  Time Division Multiplexing
+   * TDM is applied primarily on digital signals but can be applied on analog signals as well. In TDM the shared channel is divided among its user by means of time slot. Each user can transmit data within the provided time slot only. Digital signals are divided in frames,equivalent to time slot i.e. frame of an optimal size which can be transmitted in given time slot.
 
    TDM works in synchronized mode. Both ends, i.e. Multiplexer and De-multiplexer are timely synchronized and both switch to next channel simultaneously.
+   
+   * Time Division Multiplexing is generally used in computer communication and telecommunications. In this, the sharing of channels is accomplished by dividing the available transmission time on a medium among the users.
+
+TDM uses digital signalling instead of dividing the cables into frequency bands. 
+
+There are two types of TDMs:
+* ***Synchronous Time Division Multiplexing***: In this, the multiplexer and the de-multiplexer have to decide on time slots. 
+* ***Statistical Time Division Multiplexing:*** In this, the time division is fixed.
         
-  ## 3. Wavelength Division Multiplexing
-   Light has different wavelength (colors). In fiber optic mode, multiple optical carrier signals are multiplexed into an optical fiber by using different wavelengths. This        is an analog multiplexing technique and is done conceptually in the same manner as FDM but uses light as signals.
+  ## C. Wavelength Division Multiplexing
+  * Light has different wavelength (colors). In fiber optic mode, multiple optical carrier signals are multiplexed into an optical fiber by using different wavelengths. This is an analog multiplexing technique and is done conceptually in the same manner as FDM but uses light as signals.
+  * WDM is similar to Frequency Division Multiplexing but it is applied to fibers. The only difference between them is that the operating frequencies are much higher than they are in the optical range. It multiplexes multiple data streams onto a single fiber optic line and different wavelength lasers transmit the multiple signals. 
+
+--> It is of two types:
+
+* Dense wavelength division multiplexing: It combines many channels into one fiber.
+* Coarse wavelength division multiplexing: It combines fewer channels into one fiber.
+
       
- ## Spread spectrum
+ # [Spread spectrum](https://www.javatpoint.com/spread-spectrum-in-mobile-computing)
  
-Spread spectrum is a form of wireless communications in which the frequency of the transmitted signal is deliberately varied. This results in a much greater bandwidth than the signal would have if its frequency were not varied.
+## Definition
+* Spread spectrum is a form of wireless communications in which the frequency of the transmitted signal is deliberately varied. This results in a much greater bandwidth than the signal would have if its frequency were not varied.
+* Spread spectrum is a technique used for wireless communications in telecommunication and radio communication. In this technique, the frequency of the transmitted signal, i.e., an electrical signal, electromagnetic signal, or acoustic signal, is deliberately varied and generates a much greater bandwidth than the signal would have if its frequency were not varied.
+
+In other words, "Spread Spectrum is a technique in which the transmitted signals of specific frequencies are varied slightly to obtain greater bandwidth as compared to initial bandwidth."
+
+Now, spread spectrum technology is widely used in radio signals transmission because it can easily reduce noise and other signal issues.
   
   
+## Reasons to use Spread Spectrum
+* Spread spectrum signals are distributed over a wide range of frequencies and then collected and received back to the receiver. On the other hand, wide-band signals are noise-like and challenging to detect.
+* Initially, the spread spectrum was adopted in military applications because of its resistance to jamming and difficulty intercepting.
+* Now, this is also used in commercial wireless communication.
+* It is most preferred because of its useful bandwidth utilization ability.
+ 
+ 
+## Usage of Spread Spectrum
+There are many reasons to use this spread spectrum technique for wireless communications. The following are some reasons:
+
+* It can successfully establish a secure medium of communication.
+* It can increase the resistance to natural interference, such as noise and jamming, to prevent detection.
+* It can limit the power flux density (e.g., in satellite down links).
+* It can enable multiple-access communications.
+
+## Types of Spread Spectrum
+Spread Spectrum can be categorized into two types:
+
+* Frequency Hopping Spread Spectrum (FHSS)
+* Direct Sequence Spread Spectrum(DSSS)
+
+
+![spread-spectrum](https://user-images.githubusercontent.com/42698268/144565824-3fc7616d-25cf-4a62-b9a8-23c73f6e8953.png)
+
+
+
+
+# MODULE 3
+
+![Screenshot from 2021-12-03 13-24-47](https://user-images.githubusercontent.com/42698268/144565995-96e57970-d25f-4f4f-9c94-8de8f972de3f.png)
+
+
+
 # IP addresses
 
 ![Screenshot from 2021-11-27 20-40-08](https://user-images.githubusercontent.com/42698268/143686851-229d4b54-32c2-4967-b32b-3ac9ff609a17.png)
