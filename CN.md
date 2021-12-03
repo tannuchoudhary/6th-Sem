@@ -205,6 +205,9 @@ Figure 5: In this, the various secondary hubs are connected to the central hub w
 
 
 
+
+
+
 # 3. [Protocol and standard in computer network](https://www.geeksforgeeks.org/protocol-and-standard-in-computer-networks/)
 
 ## Protocol :
@@ -748,10 +751,94 @@ Spread Spectrum can be categorized into two types:
 
 
 
-# Network devices 
 
-## 1. Repeater – 
+# L-8 Various Network devices
+
+
+![Screenshot from 2021-12-03 17-36-23](https://user-images.githubusercontent.com/42698268/144614854-ddd18fbb-84d0-46e0-b721-51c8563ab802.png)
+
+## 1. [Cables](https://www.computernetworkingnotes.com/networking-tutorials/network-cable-types-and-specifications.html)
+To connect two or more computers or networking devices in a network, network cables are used. There are three types of network cables; coaxial, twisted-pair, and fiber-optic.
+
+
+![Screenshot from 2021-12-03 20-02-21](https://user-images.githubusercontent.com/42698268/144621636-46ad8048-7fe8-447c-8266-4470e38b93a1.png)
+
+![Screenshot from 2021-12-03 20-11-20](https://user-images.githubusercontent.com/42698268/144621658-a3fd586e-691d-454f-8b0a-2fafbda0c2a7.png)
+
+***A. Coaxial cable***
+
+This cable contains a conductor, insulator, braiding, and sheath. The sheath covers the braiding, the braiding covers the insulation, and the insulation covers the conductor.
+
+![nt12-01-coaixal-cable](https://user-images.githubusercontent.com/42698268/144622023-baf35a0c-361c-40de-aa37-00f55dfbf01e.png)
+
+* *Sheath*: This is the outer layer of the coaxial cable. It protects the cable from physical damage.
+
+* *Braided shield*: This shield protects signals from external interference and noise. This shield is built from the same metal that is used to build the core.
+
+* *Insulation*: Insulation protects the core. It also keeps the core separate from the braided shield. Since both the core and the braided shield use the same metal, without this layer, they will touch each other and create a short-circuit in the wire.
+
+* *Conductor*:The conductor carries electromagnetic signals. Based on conductor a coaxial cable can be categorized into two types; single-core coaxial cable and multi-core coaxial cable.
+
+
+![nt12-02-single-core-multi-core-coaxial-cable](https://user-images.githubusercontent.com/42698268/144622293-dfbab7b8-3f23-4957-bb94-5c7315c6c657.png)
+
+
+
+
+***B. Twisted-pair cables***
+
+The twisted-pair cable was primarily developed for computer networks. This cable is also known as Ethernet cable. Almost all modern LAN computer networks use this cable.
+
+This cable consists of color-coded pairs of insulated copper wires. Every two wires are twisted around each other to form pair. Usually, there are four pairs. Each pair has one solid color and one stripped color wire. Solid colors are blue, brown, green, and orange. In stripped color, the solid color is mixed with the white color.
+
+Based on how pairs are stripped in the plastic sheath, there are two types of twisted-pair cable; UTP and STP.
+
+In the UTP (Unshielded twisted-pair) cable, all pairs are wrapped in a single plastic sheath.
+
+In the STP (Shielded twisted-pair) cable, each pair is wrapped with an additional metal shield, then all pairs are wrapped in a single outer plastic sheath.
+
+**Similarities and differences between STP and UTP cables**
+* Both STP and UTP can transmit data at 10Mbps, 100Mbps, 1Gbps, and 10Gbps.
+* Since the STP cable contains more materials, it is more expensive than the UTP cable.
+* Both cables use the same RJ-45 (registered jack) modular connectors.
+* The STP provides more noise and EMI resistance than the UTP cable.
+* The maximum segment length for both cables is 100 meters or 328 feet.
+* Both cables can accommodate a maximum of 1024 nodes in each segment.
+
+
+![nt12-03-stp-utp-cables](https://user-images.githubusercontent.com/42698268/144622564-f7e9bb7e-c004-432b-84d9-0e4846d00a4c.png)
+
+
+***C. Fiber optic cable***
+
+This cable consists of a core, cladding, buffer, and jacket. The core is made from thin strands of glass or plastic that can carry data over a long distance. The core is wrapped in the cladding; the cladding is wrapped in the buffer, and the buffer is wrapped in the jacket.
+
+* Core carries the data signals in the form of light.
+* Cladding reflects light back to the core.
+* Buffer protects the light from leaking.
+* The jacket protects the cable from physical damage.
+
+
+Fiber optic cable is completely immune to EMI and RFI. This cable can transmit data over a long distance at the highest speed. It can transmit data up to 40 kilometers at the speed of 100Gbps.
+
+Fiber optic uses light to send data. It reflects light from one endpoint to another. Based on how many beams of light are transmitted at a given time, there are two types of fiber optical cable; SMF and MMF.
+
+![nt12-04-smf-mmf-fiber-optical](https://user-images.githubusercontent.com/42698268/144622761-c4e802c2-d870-4a9d-b034-97aac4bb05df.png)
+
+**SMF (Single-mode fiber) optical cable**
+
+This cable carries only a single beam of light. This is more reliable and supports much higher bandwidth and longer distances than the MMF cable. This cable uses a laser as the light source and transmits 1300 or 1550 nano-meter wavelengths of light.
+
+**MMF (multi-mode fiber) optical cable**
+
+This cable carries multiple beams of light. Because of multiple beams, this cable carries much more data than the SMF cable. This cable is used for shorter distances. This cable uses an LED as the light source and transmits 850 or 1300 nano-meter wavelengths of light.
+
+That’s all for this tutorial. If you like this tutorial, please share it with friends via your favorite social networking sites and subscribe to our YouTube channel.
+
+## 2. Repeater – 
 A repeater operates at the physical layer. Its job is to regenerate the signal over the same network before the signal becomes too weak or corrupted so as to extend the length to which the signal can be transmitted over the same network. An important point to be noted about repeaters is that they do not amplify the signal. When the signal becomes weak, they copy the signal bit by bit and regenerate it at the original strength. It is a 2 port device. 
+
+![Screenshot from 2021-12-03 20-33-47](https://user-images.githubusercontent.com/42698268/144624625-092a8c29-d6e7-4736-b9c7-188d4b6f5186.png)
 
 ## 2. Hub – 
 A hub is basically a multiport repeater. A hub connects multiple wires coming from different branches, for example, the connector in star topology which connects different stations. Hubs cannot filter data, so data packets are sent to all connected devices.  In other words, the collision domain of all hosts connected through Hub remains one.  Also, they do not have the intelligence to find out the best path for data packets which leads to inefficiencies and wastage. 
@@ -831,7 +918,7 @@ Channel Capacity=2* Bandwidth*propagation Delay
 
 
 
-
+# [COMPUTER NETWORK NOTES](https://www.computernetworkingnotes.com/networking-tutorials/)
 
 
 
