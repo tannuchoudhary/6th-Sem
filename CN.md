@@ -841,6 +841,15 @@ A repeater operates at the physical layer. Its job is to regenerate the signal o
 ![Screenshot from 2021-12-03 20-33-47](https://user-images.githubusercontent.com/42698268/144624625-092a8c29-d6e7-4736-b9c7-188d4b6f5186.png)
 
 ## 2. Hub – 
+
+
+![Screenshot from 2021-12-03 22-35-51](https://user-images.githubusercontent.com/42698268/144643634-f099051e-c1d5-4fb1-b86e-1e25ae076081.png)
+
+
+![Screenshot from 2021-12-03 22-36-52](https://user-images.githubusercontent.com/42698268/144643643-c1c89dde-2a18-461a-be40-26bd713d1399.png)
+
+
+
 A hub is basically a multiport repeater. A hub connects multiple wires coming from different branches, for example, the connector in star topology which connects different stations. Hubs cannot filter data, so data packets are sent to all connected devices.  In other words, the collision domain of all hosts connected through Hub remains one.  Also, they do not have the intelligence to find out the best path for data packets which leads to inefficiencies and wastage. 
 
 
