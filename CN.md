@@ -859,7 +859,12 @@ Types of Hub
 * Passive Hub :- These are the hubs that collect wiring from nodes and power supply from the active hub. These hubs relay signals onto the network without cleaning and boosting them and can’t be used to extend the distance between nodes.
 * Intelligent Hub :- It works like active hubs and includes remote management capabilities. They also provide flexible data rates to network devices. It also enables an administrator to monitor the traffic passing through the hub and to configure each port in the hub.
 
-## 3. Bridge – 
+## 3. Bridge-
+![Screenshot from 2021-12-03 22-52-38](https://user-images.githubusercontent.com/42698268/144645768-5c2c3790-4f58-4331-8316-d26a984dae5a.png)
+ 
+
+
+
 A bridge operates at the data link layer. A bridge is a repeater, with add on the functionality of filtering content by reading the MAC addresses of source and destination. It is also used for interconnecting two LANs working on the same protocol. It has a single input and single output port, thus making it a 2 port device.
 
 Types of Bridges 
@@ -868,15 +873,21 @@ Types of Bridges
 * Source Routing Bridges:- In these bridges, routing operation is performed by the source station and the frame specifies which route to follow. The host can discover the frame by sending a special frame called the discovery frame, which spreads through the entire network using all possible paths to the destination.
 
 # 4. Switch –
+
 A switch is a multiport bridge with a buffer and a design that can boost its efficiency(a large number of ports imply less traffic) and performance. A switch is a data link layer device. The switch can perform error checking before forwarding data, which makes it very efficient as it does not forward packets that have errors and forward good packets selectively to the correct port only.  In other words, the switch divides the collision domain of hosts, but broadcast domain remains the same. 
   
 # 5. Routers –
+
+![Screenshot from 2021-12-03 23-05-12](https://user-images.githubusercontent.com/42698268/144647505-f94ce8b6-c137-4aa6-86b1-e49ca55e924a.png)
+
+
 A router is a device like a switch that routes data packets based on their IP addresses. The router is mainly a Network Layer device. Routers normally connect LANs and WANs together and have a dynamically updating routing table based on which they make decisions on routing the data packets. Router divide broadcast domains of hosts connected through it.
 
 ![Network_devices](https://user-images.githubusercontent.com/42698268/143687632-00ac6775-be40-426f-b8c7-c5316836317b.jpg)
 
 
 # 6. Gateway – 
+
 A gateway, as the name suggests, is a passage to connect two networks together that may work upon different networking models. They basically work as the messenger agents that take data from one system, interpret it, and transfer it to another system. Gateways are also called protocol converters and can operate at any network layer. Gateways are generally more complex than switches or routers. Gateway is also called a protocol converter. 
 
 # 7. Brouter –
