@@ -560,14 +560,30 @@ Both methods have advantages over each other, and both represent viable options 
 
 ![Screenshot from 2021-12-02 23-24-44](https://user-images.githubusercontent.com/42698268/144477145-e7509194-9749-42dd-a801-2fa4f981da21.png)
 
-# Difference between LAN and VLAN
+# [Difference between LAN and VLAN](https://www.geeksforgeeks.org/difference-between-lan-and-vlan/)
 LAN stands for Local Area Network is a group of network devices which allow the communication between connected devices. On the other hand VLAN stands for Virtual Local Area Network which is used to enhance the performance of LANs (Local Area Networks).
 
+
+
+![Untitled-Diagram-52](https://user-images.githubusercontent.com/42698268/144560470-d94fb884-d1eb-4960-a1d2-954acc955593.png)
+
 The main difference between LAN (Local Area Network) and VLAN (Virtual Local Area Network) is that LAN work on single broadcast domain on the other hand VLAN works on multiple broadcast domain and In local are network, the Packet is advertised to each device while In virtual local area network, packet is send to specific broadcast domain.
+
+![Untitled-Diagram-44](https://user-images.githubusercontent.com/42698268/144560452-dc844716-2000-433e-a937-3bca85898033.png)
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/76476144/144493773-f5481d7e-8d76-4eae-b34d-d3e79a081652.png)
 
 # Techniques of Bandwidth utilization: 
+
+***Badwidth overview***
+Bandwidth, or precisely network bandwidth, is the maximum rate at which data transfer occurs across any particular path of the network. Bandwidth is basically a measure of the amount of data that can be sent and received at any instance of time. That simply means that higher is the bandwidth of a network, larger is the amount of data network can be sending to and from across its path. Be careful not to confuse bandwidth with closely related terms such as the data rate and the throughput. Bandwidth is something that deals with the measurement of capacity and not the speed of data transfer. 
+
+***Units of Measurement :***
+Bandwidth is usually measured in bits transferred per second through a path or link. The common units of bandwidth we come across are as follows.
+
+* bps  (Bits per second)
+* Mbps (Megabits per second)
+* Gbps (Gigabits per second)
 
 ## What is Bandwidth Utilization?
 
