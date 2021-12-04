@@ -1,2 +1,62 @@
 ![Screenshot from 2021-12-04 15-18-21](https://user-images.githubusercontent.com/42698268/144705111-71e24e3a-675a-4f0d-b1ae-3d9a1d202ec3.png)
+# [Origin of DIP](https://www.youtube.com/watch?v=xgXp0Thz6RI&list=PLm_MSClsnwm9I2iviE0YKt6PZTyQCYc8j&index=2)
+![Screenshot from 2021-12-04 23-58-25](https://user-images.githubusercontent.com/42698268/144720743-b45468e5-40ac-4f72-ade8-f7b5f541dd40.png)
+
+![Screenshot from 2021-12-04 23-59-03](https://user-images.githubusercontent.com/42698268/144720744-266d5fc3-85dc-444f-a332-de1b57412e88.png)
+
+![Screenshot from 2021-12-04 23-59-38](https://user-images.githubusercontent.com/42698268/144720750-b9f4f926-f640-4711-8e5b-faf73a36003e.png)
+
+
+![Screenshot from 2021-12-05 00-00-29](https://user-images.githubusercontent.com/42698268/144720753-9d8fdb05-fe9f-41f6-8e1a-c7f267e49cee.png)
+
+![Screenshot from 2021-12-05 00-01-25](https://user-images.githubusercontent.com/42698268/144720755-c66852b0-d6c5-4286-8c96-b908b461da77.png)
+
+![Screenshot from 2021-12-05 00-01-59](https://user-images.githubusercontent.com/42698268/144720760-19905c3c-7c29-44ea-b32f-08bcba0b4dca.png)
+
+![Screenshot from 2021-12-05 00-02-47](https://user-images.githubusercontent.com/42698268/144720764-205f3cd1-2d01-4ccc-8e0a-449b3ca42766.png)
+
+![Screenshot from 2021-12-05 00-03-40](https://user-images.githubusercontent.com/42698268/144720766-e33927e0-1b51-4ff6-8eb0-a426300a6ced.png)
+
+![Screenshot from 2021-12-05 00-04-10](https://user-images.githubusercontent.com/42698268/144720770-3bfc3c1f-0170-4c7a-8e69-e9555e38610a.png)
+
+
+# [Introduction](https://www.youtube.com/watch?v=qUSOpuMMhoo&list=PLR5USSocuZ5dxwi3eVsC-xvA4Ux80d6X4&index=1&t=3s)
+
+![Screenshot from 2021-12-04 21-48-17](https://user-images.githubusercontent.com/42698268/144719983-b83511b7-67fd-4005-b9ad-f3e1a17d5e97.png)
+
+
+![Screenshot from 2021-12-04 23-25-34](https://user-images.githubusercontent.com/42698268/144719986-a6a220d4-7958-439b-b2a2-7e775a7feed3.png)
+
+![Screenshot from 2021-12-04 23-27-24](https://user-images.githubusercontent.com/42698268/144719990-52eb2361-a476-4a88-9446-8481048d4be9.png)
+
+# Steps in Digital Image processing
+![Screenshot from 2021-12-04 23-31-35](https://user-images.githubusercontent.com/42698268/144719994-6c02ca68-5f90-4246-ba84-648ad0fada23.png)
+
+# Components in DIP
+
+![Screenshot from 2021-12-04 23-34-06](https://user-images.githubusercontent.com/42698268/144719995-6ccbb6c7-013e-4432-b52a-b4f529713d25.png)
+
+# [Elements of visual perception](https://www.youtube.com/watch?v=4_jZqJs04EY)
+
+
+![Screenshot from 2021-12-04 23-46-06](https://user-images.githubusercontent.com/42698268/144720373-fcd858c6-036b-414a-8c4a-1cdf350fb6d8.png)
+
+![Screenshot from 2021-12-04 23-48-52](https://user-images.githubusercontent.com/42698268/144720377-4ec5e4a6-98f5-4bf8-abc8-cc5b36b6e604.png)
+![Screenshot from 2021-12-04 23-49-08](https://user-images.githubusercontent.com/42698268/144720380-7840dc78-819f-4714-bc2a-71de6146d1f1.png)
+
+![Screenshot from 2021-12-04 23-51-12](https://user-images.githubusercontent.com/42698268/144720388-cd69da29-33c6-4bc3-bd7e-059a9391cff1.png)
+
+
+# Image Sensing and Acquisition
+
+
+
+
+
+
+
+
+
+
+
 
