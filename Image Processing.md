@@ -39,12 +39,63 @@
 # [Elements of visual perception](https://www.youtube.com/watch?v=4_jZqJs04EY)
 
 
+## 1. The human eye
+
 ![Screenshot from 2021-12-04 23-46-06](https://user-images.githubusercontent.com/42698268/144720373-fcd858c6-036b-414a-8c4a-1cdf350fb6d8.png)
 
 ![Screenshot from 2021-12-04 23-48-52](https://user-images.githubusercontent.com/42698268/144720377-4ec5e4a6-98f5-4bf8-abc8-cc5b36b6e604.png)
 ![Screenshot from 2021-12-04 23-49-08](https://user-images.githubusercontent.com/42698268/144720380-7840dc78-819f-4714-bc2a-71de6146d1f1.png)
 
 ![Screenshot from 2021-12-04 23-51-12](https://user-images.githubusercontent.com/42698268/144720388-cd69da29-33c6-4bc3-bd7e-059a9391cff1.png)
+
+[ekeeda](https://www.youtube.com/watch?v=UdE_jTphTN8&list=PLm_MSClsnwm9I2iviE0YKt6PZTyQCYc8j&index=6)
+
+![Screenshot from 2021-12-05 00-51-46](https://user-images.githubusercontent.com/42698268/144722562-aa8a5f96-14dd-4941-86bf-f779491fcb8e.png)
+
+![Screenshot from 2021-12-05 00-57-24](https://user-images.githubusercontent.com/42698268/144722566-765b0b98-3ecb-4e74-87b2-833fddc4d4a4.png)
+
+![Screenshot from 2021-12-05 00-58-03](https://user-images.githubusercontent.com/42698268/144722568-94f6d2f4-6f3f-4377-b633-9a4e728dbd57.png)
+
+![Screenshot from 2021-12-05 01-00-55](https://user-images.githubusercontent.com/42698268/144722575-6789a8a0-8a04-45a6-ae0e-39d4e2c0227e.png)
+
+![Screenshot from 2021-12-05 01-01-35](https://user-images.githubusercontent.com/42698268/144722577-525e28a1-e795-4dcf-9d71-2672be479715.png)
+
+
+![Screenshot from 2021-12-05 01-08-50](https://user-images.githubusercontent.com/42698268/144722582-26bedb87-5500-40b4-9354-e6ef3a2c831c.png)
+
+![Screenshot from 2021-12-05 01-09-03](https://user-images.githubusercontent.com/42698268/144722585-d4d216a3-3bd4-4aea-ae07-aeea2150b938.png)
+
+
+![Screenshot from 2021-12-05 01-09-18](https://user-images.githubusercontent.com/42698268/144722598-501e5597-ec5c-4267-a091-b13015c0815b.png)
+
+
+![Screenshot from 2021-12-05 01-09-29](https://user-images.githubusercontent.com/42698268/144722600-c624ea3a-1d0d-4928-8c2f-ae7992c9fbbd.png)
+
+
+![Screenshot from 2021-12-05 01-09-42](https://user-images.githubusercontent.com/42698268/144722603-7283a7fd-8484-4f0a-81a4-cbf22f586ed3.png)
+
+
+![Screenshot from 2021-12-05 01-09-52](https://user-images.githubusercontent.com/42698268/144722606-e0fef203-9dfc-48ff-9d1d-dd5641952367.png)
+
+
+![Screenshot from 2021-12-05 01-10-01](https://user-images.githubusercontent.com/42698268/144722608-716980e9-a94c-4b02-9ef1-e4977beb8d81.png)
+
+
+
+![Screenshot from 2021-12-05 01-10-09](https://user-images.githubusercontent.com/42698268/144722611-3f77d653-c6de-4d57-abeb-be0c6feaace9.png)
+
+
+
+![Screenshot from 2021-12-05 01-10-23](https://user-images.githubusercontent.com/42698268/144722613-004b3e96-2095-40ac-b996-fa2f80d65482.png)
+
+
+![Screenshot from 2021-12-05 01-10-38](https://user-images.githubusercontent.com/42698268/144722616-46cb8d74-04a4-498c-80b4-de6b037250dd.png)
+
+
+
+
+
+
 
 
 # Image Sensing and Acquisition
