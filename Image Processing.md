@@ -92,13 +92,35 @@
 ![Screenshot from 2021-12-05 01-10-38](https://user-images.githubusercontent.com/42698268/144722616-46cb8d74-04a4-498c-80b4-de6b037250dd.png)
 
 
+# [Image Sensing and Acquisition](https://www.youtube.com/watch?v=kpI5sfjiPk8)
+
+![Screenshot from 2021-12-05 01-18-37](https://user-images.githubusercontent.com/42698268/144722851-0969e47b-119d-4a70-a078-012fc6c6eb20.png)
+
+![Screenshot from 2021-12-05 01-19-01](https://user-images.githubusercontent.com/42698268/144722854-ad554f97-3590-4574-a2c8-efdb11bf0897.png)
+
+![Screenshot from 2021-12-05 01-19-29](https://user-images.githubusercontent.com/42698268/144722858-d4ba231c-baab-4678-9966-e87078f32c34.png)
+
+![Screenshot from 2021-12-05 01-21-15](https://user-images.githubusercontent.com/42698268/144722861-b1353047-1363-4648-b1e1-844912e43b9c.png)
+
+![Screenshot from 2021-12-05 01-21-29](https://user-images.githubusercontent.com/42698268/144722872-caf63bb8-6f58-4a73-a773-ac75a34fef98.png)
+
+![Screenshot from 2021-12-05 01-22-27](https://user-images.githubusercontent.com/42698268/144722878-3c4e2fdb-6e29-4f23-80e6-86631146bf1a.png)
+
+![Screenshot from 2021-12-05 01-22-55](https://user-images.githubusercontent.com/42698268/144722882-b127d642-e8b2-4756-8a2c-64d2c2066f6f.png)
+
+![Screenshot from 2021-12-05 01-25-58](https://user-images.githubusercontent.com/42698268/144722996-e7f23992-fdcb-44d1-8ee1-0e77465aa563.png)
+
+
+# Image sampling and Quantization
 
 
 
 
 
 
-# Image Sensing and Acquisition
+
+
+
 
 
 
