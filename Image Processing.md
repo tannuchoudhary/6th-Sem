@@ -112,18 +112,31 @@
 
 
 # Image sampling and Quantization
+[Lecture - 1](https://www.youtube.com/watch?v=JPdMQ9-wJyw)
+![Screenshot from 2021-12-05 03-20-36](https://user-images.githubusercontent.com/42698268/144726091-80ac5f0e-0f40-4936-b3a8-0ce4f034a26c.png)
+
+
+![Screenshot from 2021-12-05 03-20-42](https://user-images.githubusercontent.com/42698268/144726092-2097c4ee-d2ea-4b38-a107-a32b051367c3.png)
+
+
+![Screenshot from 2021-12-05 03-23-27](https://user-images.githubusercontent.com/42698268/144726094-821f413c-3f65-42be-a2cb-462ce2d46a32.png)
+
+![Screenshot from 2021-12-05 03-23-46](https://user-images.githubusercontent.com/42698268/144726098-dcf40615-1724-4eea-a3d8-cc46c14b9004.png)
+
+![Screenshot from 2021-12-05 03-24-31](https://user-images.githubusercontent.com/42698268/144726106-2739eaa4-e903-44bd-8f15-7e082c5cbab2.png)
+
+
+[Lecture - 2](https://www.youtube.com/watch?v=6TczLf9Z3A0)
+![Screenshot from 2021-12-05 03-27-40](https://user-images.githubusercontent.com/42698268/144726111-6c4f30f0-47d0-4bd3-934f-2988cd04a55d.png)
+
+
+![Screenshot from 2021-12-05 03-30-44](https://user-images.githubusercontent.com/42698268/144726113-a16fd71d-bc81-4cb0-837f-c34562bcb189.png)
+
+![Screenshot from 2021-12-05 03-32-58](https://user-images.githubusercontent.com/42698268/144726115-ce4268c8-52c6-4e6c-ba11-1ef0d4b14cb5.png)
 
 
 
-
-
-
-
-
-
-
-
-
+![Screenshot from 2021-12-05 03-35-22](https://user-images.githubusercontent.com/42698268/144726117-20114b42-327a-422e-bb2b-5cc01b58c142.png)
 
 
 
