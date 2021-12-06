@@ -193,18 +193,12 @@ There are three types of connectivity on the basis of adjacency. They are:
 
 # 9. Color Model
 
-## Color models in images
+
 ![Screenshot from 2021-12-06 14-23-47](https://user-images.githubusercontent.com/42698268/144816483-bfa9e546-97e9-4f6b-8b0d-5b0f04a7a0a9.png)
 
 ![Screenshot from 2021-12-06 14-23-56](https://user-images.githubusercontent.com/42698268/144816497-cf2ed129-5eb9-45cf-bbf4-60c2e585f94d.png)
 
 ![Screenshot from 2021-12-06 14-24-04](https://user-images.githubusercontent.com/42698268/144816503-a942d36c-fdcb-4059-9798-d22d79e860d0.png)
-
-
-
-
-
-
 
 
 # MODULE - 2
