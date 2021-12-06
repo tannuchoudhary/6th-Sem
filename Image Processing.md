@@ -1,5 +1,5 @@
 ![Screenshot from 2021-12-04 15-18-21](https://user-images.githubusercontent.com/42698268/144705111-71e24e3a-675a-4f0d-b1ae-3d9a1d202ec3.png)
-# [Origin of DIP](https://www.youtube.com/watch?v=xgXp0Thz6RI&list=PLm_MSClsnwm9I2iviE0YKt6PZTyQCYc8j&index=2)
+# [1. Origin of DIP](https://www.youtube.com/watch?v=xgXp0Thz6RI&list=PLm_MSClsnwm9I2iviE0YKt6PZTyQCYc8j&index=2)
 ![Screenshot from 2021-12-04 23-58-25](https://user-images.githubusercontent.com/42698268/144720743-b45468e5-40ac-4f72-ade8-f7b5f541dd40.png)
 
 ![Screenshot from 2021-12-04 23-59-03](https://user-images.githubusercontent.com/42698268/144720744-266d5fc3-85dc-444f-a332-de1b57412e88.png)
@@ -20,7 +20,7 @@
 ![Screenshot from 2021-12-05 00-04-10](https://user-images.githubusercontent.com/42698268/144720770-3bfc3c1f-0170-4c7a-8e69-e9555e38610a.png)
 
 
-# [Introduction](https://www.youtube.com/watch?v=qUSOpuMMhoo&list=PLR5USSocuZ5dxwi3eVsC-xvA4Ux80d6X4&index=1&t=3s)
+# [2. Introduction](https://www.youtube.com/watch?v=qUSOpuMMhoo&list=PLR5USSocuZ5dxwi3eVsC-xvA4Ux80d6X4&index=1&t=3s)
 
 ![Screenshot from 2021-12-04 21-48-17](https://user-images.githubusercontent.com/42698268/144719983-b83511b7-67fd-4005-b9ad-f3e1a17d5e97.png)
 
@@ -29,14 +29,14 @@
 
 ![Screenshot from 2021-12-04 23-27-24](https://user-images.githubusercontent.com/42698268/144719990-52eb2361-a476-4a88-9446-8481048d4be9.png)
 
-# Steps in Digital Image processing
+# 3. Steps in Digital Image processing
 ![Screenshot from 2021-12-04 23-31-35](https://user-images.githubusercontent.com/42698268/144719994-6c02ca68-5f90-4246-ba84-648ad0fada23.png)
 
-# Components in DIP
+# 4. Components in DIP
 
 ![Screenshot from 2021-12-04 23-34-06](https://user-images.githubusercontent.com/42698268/144719995-6ccbb6c7-013e-4432-b52a-b4f529713d25.png)
 
-# [Elements of visual perception](https://www.youtube.com/watch?v=4_jZqJs04EY)
+# [5. Elements of visual perception](https://www.youtube.com/watch?v=4_jZqJs04EY)
 
 
 ## 1. The human eye
@@ -92,7 +92,7 @@
 ![Screenshot from 2021-12-05 01-10-38](https://user-images.githubusercontent.com/42698268/144722616-46cb8d74-04a4-498c-80b4-de6b037250dd.png)
 
 
-# [Image Sensing and Acquisition](https://www.youtube.com/watch?v=kpI5sfjiPk8)
+# [6. Image Sensing and Acquisition](https://www.youtube.com/watch?v=kpI5sfjiPk8)
 
 ![Screenshot from 2021-12-05 01-18-37](https://user-images.githubusercontent.com/42698268/144722851-0969e47b-119d-4a70-a078-012fc6c6eb20.png)
 
@@ -111,7 +111,7 @@
 ![Screenshot from 2021-12-05 01-25-58](https://user-images.githubusercontent.com/42698268/144722996-e7f23992-fdcb-44d1-8ee1-0e77465aa563.png)
 
 
-# Image sampling and Quantization
+# 7. Image sampling and Quantization
 [Lecture - 1](https://www.youtube.com/watch?v=JPdMQ9-wJyw)
 ![Screenshot from 2021-12-05 03-20-36](https://user-images.githubusercontent.com/42698268/144726091-80ac5f0e-0f40-4936-b3a8-0ce4f034a26c.png)
 
@@ -137,6 +137,105 @@
 
 
 ![Screenshot from 2021-12-05 03-35-22](https://user-images.githubusercontent.com/42698268/144726117-20114b42-327a-422e-bb2b-5cc01b58c142.png)
+
+# 8. [Relationship between pixels](https://www.youtube.com/watch?v=AjFURMXJTbw)
+
+***Pixels***: A digital image is composed of a finite number of elements each of which has a particular location or value. These elements are referred to as pixels or image elements or picture elements or pels elements.
+
+
+![Screenshot from 2021-12-06 14-08-21](https://user-images.githubusercontent.com/42698268/144814109-1e7192a1-479c-494b-a6df-e1ca8a69cb33.png)
+
+An image is denoted by f(x,y) and p,q are used to represent individual pixels of the image.
+
+### Neighbours of a pixel
+A pixel p at (x,y) has 4-horizontal/vertical neighbours at (x+1,y), (x-1,y), (x,y+1) and (x,y-1). These are called the 4-neighbours of p : N4(p).
+
+A pixel p at (x,y) has 4 diagonal neighbours at (x+1,y+1), (x+1,y-1), (x-1,y+1) and (x-1,y-1). These are called the diagonal-neighbours of p : ND(p).
+
+The 4-neighbours and the diagonal neighbours of p are called 8-neighbours of p : N8(p).
+
+## Adjacency between pixels
+
+Let V be the set of intensity values used to define adjacency.
+
+In a binary image, V ={1} if we are referring to adjacency of pixels with value 1. In a gray-scale image, the idea is the same, but set V typically contains more elements.
+
+For example, in the adjacency of pixels with a range of possible intensity values 0 to 255, set V could be any subset of these 256 values.
+
+We consider three types of adjacency:
+
+* a) 4-adjacency: Two pixels p and q with values from V are 4-adjacent if q is in the set N4(p).
+* b) 8-adjacency: Two pixels p and q with values from V are 8-adjacent if q is in the set N8(p).
+* c) m-adjacency(mixed adjacency): Two pixels p and q with values from V are m-adjacent if
+    1. q is in N4(p), or
+    2. q is in ND(p) and the set N4(p)∩N4(q) has no pixels whose values are from V.
+
+
+### Connectivity between pixels
+It is an important concept in digital image processing.
+
+It is used for establishing boundaries of objects and components of regions in an image.
+
+Two pixels are said to be connected:
+
+* if they are adjacent in some sense(neighbour pixels,4/8/m-adjacency)
+* if their gray levels satisfy a specified criterion of similarity(equal intensity level)
+
+There are three types of connectivity on the basis of adjacency. They are:
+
+* a) 4-connectivity: Two or more pixels are said to be 4-connected if they are 4-adjacent with each others.
+* b) 8-connectivity: Two or more pixels are said to be 8-connected if they are 8-adjacent with each others.
+* c) m-connectivity: Two or more pixels are said to be m-connected if they are m-adjacent with each others.
+
+
+![1_gFh1mfAZKixmgIQQudj4Sg](https://user-images.githubusercontent.com/42698268/144814764-19dfd9ff-2534-4112-b61e-b5c2843a647f.png)
+
+
+# 9. Color Model
+
+## Color models in images
+![Screenshot from 2021-12-06 14-23-47](https://user-images.githubusercontent.com/42698268/144816483-bfa9e546-97e9-4f6b-8b0d-5b0f04a7a0a9.png)
+
+![Screenshot from 2021-12-06 14-23-56](https://user-images.githubusercontent.com/42698268/144816497-cf2ed129-5eb9-45cf-bbf4-60c2e585f94d.png)
+
+![Screenshot from 2021-12-06 14-24-04](https://user-images.githubusercontent.com/42698268/144816503-a942d36c-fdcb-4059-9798-d22d79e860d0.png)
+
+
+
+
+
+
+
+
+# MODULE - 2
+
+# 1. A simple Image model
+
+***What's an image?***
+
+*  An image refers to a 2D light intensity function f(x,y), where (x,y) denote spatial coordinates and
+the value of f at any point (x,y) is proportional to the brightness or gray levels of the image at that point.
+
+*  A digital image is an image f(x,y) that has been discretized both in spatial coordinates and
+brightness.
+* The elements of such a digital array are called image elements or pixels. 
+
+***A simple image model:***
+* To be suitable for computer processing, an image f(x,y) must be digitalized both spatially and in
+amplitude.
+* Digitization of the spatial coordinates (x,y) is called image sampling.
+* Amplitude digitization is called gray-level quantization. 
+* The storage and processing requirements increase rapidly with the spatial resolution and the number of
+gray levels.
+* Example: A 256 gray-level image of size 256x256 occupies 64K bytes of memory.
+* Images of very low spatial resolution produce a checkerboard effect. 
+* The use of insufficient number of gray levels in smooth areas of a digital image results in false
+contouring. 
+
+
+![Screenshot from 2021-12-06 14-21-51](https://user-images.githubusercontent.com/42698268/144816525-8d58fc5e-7fbc-4243-8e87-93bce9a2b875.png)
+
+
 
 
 
