@@ -203,7 +203,29 @@ There are three types of connectivity on the basis of adjacency. They are:
 
 # MODULE - 2
 
-# 1. A simple Image model
+# 1. [A simple Image model](https://www.youtube.com/watch?v=MiSS_aEEf8w)
+
+![Screenshot from 2021-12-06 14-36-19](https://user-images.githubusercontent.com/42698268/144819049-dab15bed-c5e6-45b3-b92d-f30dfbd871b4.png)
+
+
+![Screenshot from 2021-12-06 14-38-30](https://user-images.githubusercontent.com/42698268/144819059-62dcf1f2-375e-4774-87ab-2428f2d7f074.png)
+
+
+![Screenshot from 2021-12-06 14-39-31](https://user-images.githubusercontent.com/42698268/144819078-1be8a7da-f59e-4ef0-bc22-b2927bf10966.png)
+
+
+![Screenshot from 2021-12-06 14-39-54](https://user-images.githubusercontent.com/42698268/144819084-df43f72e-c2e7-41f3-a501-51372477b2ec.png)
+
+
+![Screenshot from 2021-12-06 14-40-32](https://user-images.githubusercontent.com/42698268/144819090-2e14f57d-1727-4eb0-81da-c430e8f2f308.png)
+
+![Screenshot from 2021-12-06 14-41-05](https://user-images.githubusercontent.com/42698268/144819111-90b0c431-c5a4-4f0c-89ae-f0dc7d078520.png)
+
+![Screenshot from 2021-12-06 14-41-19](https://user-images.githubusercontent.com/42698268/144819118-d4a00519-896a-4d4c-8669-12388bb74bff.png)
+
+![Screenshot from 2021-12-06 14-41-28](https://user-images.githubusercontent.com/42698268/144819168-719bf7b9-6d2e-4870-8c6e-26b911ff1e28.png)
+
+
 
 ***What's an image?***
 
