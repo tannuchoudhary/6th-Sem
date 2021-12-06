@@ -254,6 +254,14 @@ contouring.
 # [Geometric Model-Basic Transformation (Translation, Scaling, Rotation)](https://www.youtube.com/watch?v=oTN4hdjalWk&t=88s)
 
 
+------------------------------------------------------------------
+-
+-
+-
+-
+
+# 1.What are the steps of DIP?
+
 
 
 
