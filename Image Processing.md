@@ -251,6 +251,8 @@ contouring.
 
 ![Screenshot from 2021-12-06 14-21-51](https://user-images.githubusercontent.com/42698268/144816525-8d58fc5e-7fbc-4243-8e87-93bce9a2b875.png)
 
+# [Geometric Model-Basic Transformation (Translation, Scaling, Rotation)](https://www.youtube.com/watch?v=oTN4hdjalWk&t=88s)
+
 
 
 
