@@ -511,8 +511,10 @@ Moreover, Uniform quantization has some amount of quantization error. But, Nonun
 
 ![Screenshot from 2021-12-07 12-43-58](https://user-images.githubusercontent.com/42698268/144983469-69249a42-92db-47c8-a256-742c91b2a2c6.png)
 
-# 3. Relations
-I think relation is same as adjacency
+# 3. Relations , Equivalence and transitive closure
+![Screenshot (86)](https://user-images.githubusercontent.com/65703138/145122060-8f424f58-a962-4ebe-88db-826487f20945.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/65703138/145122064-a2d648f6-96a3-45be-9518-c9e0ec071d02.png)
+
 
 # 4. Distance and measure
 
@@ -525,7 +527,7 @@ I think relation is same as adjacency
 
 ![Screenshot from 2021-12-07 12-48-28](https://user-images.githubusercontent.com/42698268/144984139-3617da38-0314-421e-8294-e2030986e185.png)
 
-# 5. Equivalence and transitive closure
+
 
 # 6. Arithematic/logic operation 
 
