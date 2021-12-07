@@ -140,7 +140,9 @@
 
 # 7. Image sampling and Quantization
 ###  Ans 1
+
 [Lecture - 1](https://www.youtube.com/watch?v=JPdMQ9-wJyw)
+
 ![Screenshot from 2021-12-05 03-20-36](https://user-images.githubusercontent.com/42698268/144726091-80ac5f0e-0f40-4936-b3a8-0ce4f034a26c.png)
 
 
@@ -154,7 +156,9 @@
 ![Screenshot from 2021-12-05 03-24-31](https://user-images.githubusercontent.com/42698268/144726106-2739eaa4-e903-44bd-8f15-7e082c5cbab2.png)
 
 ### Ans 2
+
 [Lecture - 2](https://www.youtube.com/watch?v=6TczLf9Z3A0)
+
 ![Screenshot from 2021-12-05 03-27-40](https://user-images.githubusercontent.com/42698268/144726111-6c4f30f0-47d0-4bd3-934f-2988cd04a55d.png)
 
 
@@ -449,7 +453,7 @@ contouring.
 ![Screenshot from 2021-12-07 00-09-40](https://user-images.githubusercontent.com/42698268/144903367-a5cecc7e-ad56-4aac-99f4-bd2ef6758d38.png)
 
 
-# [Uniform and Non uniform Quantization](https://www.differencebetween.com/difference-between-uniform-and-nonuniform-quantization/)
+# 4. [Uniform and Non uniform Quantization](https://www.differencebetween.com/difference-between-uniform-and-nonuniform-quantization/)
 
 The key difference between uniform and nonuniform quantization is that uniform quantization has equal step sizes while, in nonuniform quantization, the step sizes are not equal. Another important difference between uniform and nonuniform quantization is that,  in the uniform quantization, some amount of quantization error can happen, but nonuniform quantization reduces the quantization error.
 
@@ -489,7 +493,7 @@ Moreover, Uniform quantization has some amount of quantization error. But, Nonun
 
 ![Screenshot from 2021-12-07 00-14-14](https://user-images.githubusercontent.com/42698268/144982699-f772fe06-9bf0-4cee-a165-d8fefe0ffa47.png)
 
-# MODULE 4
+# MODULE 3
 
 # 1. Neighbour of Pixels
 
@@ -521,8 +525,9 @@ I think relation is same as adjacency
 
 ![Screenshot from 2021-12-07 12-48-28](https://user-images.githubusercontent.com/42698268/144984139-3617da38-0314-421e-8294-e2030986e185.png)
 
+# 5. Equivalence and transitive closure
 
-# 5. Arithematic/logic operation 
+# 6. Arithematic/logic operation 
 
 Image arithmetic applies one of the standard arithmetic operations or a logical operator to two or more images. The operators are applied in a pixel-by-pixel way, i.e. the value of a pixel in the output image depends only on the values of the corresponding pixels in the input images. Hence, the images must be of the same size. Although image arithmetic is the most simple form of image processing, there is a wide range of applications. A main advantage of arithmetic operators is that the process is very simple and therefore fast. 
 
@@ -596,7 +601,10 @@ C = A ⋃ B
 i.e., C is the union of A and B.
 
 
-# 
+
+
+
+# MODULE 4 IMAGE ENHANCEMENT
 
 
 
@@ -620,9 +628,6 @@ i.e., C is the union of A and B.
 
 
 
-
-
-# MODULE 4 IMAGE ENHANCEMENT
 
 
 
