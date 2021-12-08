@@ -606,10 +606,18 @@ i.e., C is the union of A and B.
 
 # MODULE 4 IMAGE ENHANCEMENT
 
+* The Machband describes an effect where the human mind subconsciously increases the contrast between two surfaces with different luminance.
 
 
+![gray_machband](https://user-images.githubusercontent.com/42698268/145109581-421be473-9c1f-4234-a2e1-114964c7157a.jpg)
 
+* Mach bands or the Mach effect refers to an optical phenomenon from edge enhancement due to lateral inhibition of the retina 2. This is an inbuilt edge enhancement mechanism of the retina, where the edges of darker objects next to lighter objects will appear darker and vice versa, creating a false shadow
 
+The luminance of the squares above increases in a stepwise fashion. However although the luminance within each block is constant the apparent lightness of each strip seems to vary across its length. Close to the left edge of the strip it appears lighter than at the centre, and close to the right edge of the strip it appears darker than at the centre. The visual system is exaggerating the difference in luminance (contrast) at each edge in order top detect it. Try holding a pencil over an edge in this image and see how the apparent difference in lightness of two adjacent strips changes. They become much harder to tell apart. The edge detection is working to enhance object separation.
+
+Mach banding is caused by lateral inhibition of the receptors in the eye. As receptors receive light they draw light-sensitive chemical compounds from adjacent regions, thus inhibiting the response of receptors in those regions. Receptors directly on the lighter side of the boundary can pull in unused chemicals from the darker side, and thus produce a stronger response. Receptors on the on the darker side of the boundary, however, produce a weaker effect because of that same migration.
+
+# Question 5 Machband effect
 
 
 
