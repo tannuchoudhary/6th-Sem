@@ -532,17 +532,19 @@ This can help to identify the consumer’s precise location or determine the dis
 
 ![Screenshot from 2021-12-10 00-50-22](https://user-images.githubusercontent.com/42698268/145461846-2bfdd718-bc1a-4a68-bedd-c9ca158c3a19.png)
 
+# 3. WWW server
+
+![Screenshot from 2021-12-10 01-27-29](https://user-images.githubusercontent.com/42698268/145467006-8e7068ff-220d-440e-ab52-8ea3d21e533b.png)
+
+![Screenshot from 2021-12-10 01-27-46](https://user-images.githubusercontent.com/42698268/145467025-ef71c9c4-9c5f-4332-8ab5-af6e26a0d896.png)
 
 
+![Screenshot from 2021-12-10 01-28-02](https://user-images.githubusercontent.com/42698268/145467031-e55b5e3e-9db9-4aad-b23f-16987b9d3710.png)
 
 
+![Screenshot from 2021-12-10 01-28-19](https://user-images.githubusercontent.com/42698268/145467042-f1eaf01f-0069-4a5b-87ba-1f4b796bdae4.png)
 
-
-
-
-
-
-
+![Screenshot from 2021-12-10 01-28-28](https://user-images.githubusercontent.com/42698268/145467087-7307472d-540c-43af-8cfc-c9a510f94f5a.png)
 
 
 
