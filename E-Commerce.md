@@ -209,19 +209,6 @@ There are many benefits to the C2B e-commerce model, including:
 
 # Logical layers of e commerce
 
-
-![Layers-of-e-commerce-activity-after-217](https://user-images.githubusercontent.com/42698268/143809034-7a94b20b-3050-4699-a178-7c5855a6df89.png)
-
-The layers have clean interfaces, that is, they can be designed independently. We present an architecture with six layers. The lowest layer consists of a physical communication network such as local area network or public switched telephone networks. The next higher layer is the logical layer which describes the protocol used to interconnect communication systems to create internet, intranet and extranet. The services provided over the internet infrastructure, namely, e-mail, world wide web etc., are described in what is called network services layer. It is essential to ensure security of messages, documents etc., which are transmitted using network services. The messaging layer is thus concerned with encryption methods, both private and public key encryption and their applications. We call the layer above this the middleman service, which is concerned with value-added services offered by intermediaries to enable payment for services received, certify digital signatures, safely transmit documents and provide information on behalf of companies. The topmost layer is the application layer which users see. The major applications are customer-to-business (C2B) e-commerce, business-to-business (B2B) e-commerce, customer-to-consumer (C2C) e-commerce etc. 
-
-## Easy view
-![Screenshot from 2021-12-09 14-18-56](https://user-images.githubusercontent.com/42698268/145364171-c5f908b7-d2eb-48df-8433-60759e81e76b.png)
-
-## complex view
-
-![Screenshot from 2021-12-09 14-20-40](https://user-images.githubusercontent.com/42698268/145364232-e5463791-51fa-4f38-8122-f1ee8b9cb68b.png)
-
-## Elaboration
 ![Screenshot from 2021-12-09 14-15-23](https://user-images.githubusercontent.com/42698268/145364277-f8278f59-c130-47c7-99bc-42bffbaf4544.png)
 ![Screenshot from 2021-12-09 14-15-37](https://user-images.githubusercontent.com/42698268/145364373-7acace46-9949-45cf-bae6-145ac62a7c3d.png)
 
@@ -231,16 +218,44 @@ The layers have clean interfaces, that is, they can be designed independently. W
 
 ![Screenshot from 2021-12-09 14-16-05](https://user-images.githubusercontent.com/42698268/145364400-6b9ebda9-6ebd-47ae-9c04-a7df136d4b51.png)
 
+## Logical layer
+
+![Screenshot from 2021-12-09 14-12-45](https://user-images.githubusercontent.com/42698268/145365008-04224506-53b1-448b-8a8d-75e09fd3d6e2.png)
+
+## TCP/Ip
+* TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet. TCP/IP is also used as a communications protocol in a private computer network (an intranet or extranet).
+* TCP/IP stands for Transmission Control Protocol/Internet Protocol which is defined as the language of the Internet. An example of TCP/IP in action is a person accessing a website.
+* (Transmission Control Protocol/Internet Protocol) The most widely used communications protocol. TCP/IP prepares and forwards data packets over a network such as Ethernet.
 
 
+## SSL
+Secure Socket Layer (SSL) provides security to the data that is transferred between web browser and server. SSL encrypts the link between a web server and a browser which ensures that all data passed between them remain private and free from attack. 
+
+Secure Socket Layer (SSL) is that the normal security technology for establishing associate encrypted link between an internet server and a browser. This link ensures that each one knowledge passed between the online server and browsers stay personal and integral.
+
+SSL is associate trade normal and is employed by numerous websites within the protection of their on-line transactions with their customers. SSL permits counselling like Social Security numbers, mastercard numbers, or login credentials to be transmitted firmly..
+
+### Secure Socket Layer Protocols: 
+* SSL record protocol
+* Handshake protocol
+* Change-cipher spec protocol
+* Alert protocol
+
+### SSL Protocol Stack:  
+![161](https://user-images.githubusercontent.com/42698268/145365817-7f03d096-0d85-49e4-8da6-7aadc2cdafe7.jpg)
+
+### Purpose
+Their purpose is simple: first of all, they encrypt and safeguard data transferred between browsers and servers. Secondly, they authenticate the server to which the device is connecting. The purpose of this process is to protect online consumers.
+
+## SET
+***Secure Electronic Transaction (SET):***
+
+Secure Electronic dealings (SET) could be a system for making certain the safety of economic transactions on the web. it absolutely was supported at the start by Mastercard, Visa, Microsoft, Netscape, and others. With SET, a user is given associate degree electronic case (digital certificate) and a dealings is conducted and verified employing a combination of digital certificates and digital signatures among the client, a merchant, and also the purchaser’s bank during a means that ensures privacy and confidentiality.
 
 
+SET makes use of Netscape’s Secure Sockets Layer (SSL), Microsoft’s Secure dealings Technology (STT), and Terisa System’s Secure machine-readable text Transfer Protocol (S-HTTP). SET uses some however not all aspects of a public key infrastructure (PKI).
 
-
-
-
-
-
+![Screenshot from 2021-12-09 14-34-16](https://user-images.githubusercontent.com/42698268/145366301-8f375b56-17c7-4fa1-aee1-a6e8057189c6.png)
 
 
 
