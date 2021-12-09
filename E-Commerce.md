@@ -94,6 +94,18 @@ The evolution and growth of e-commerce can be attributed to a combination of tec
 
 6. Consumers often prefer shopping on the internet due to convenience and the changes in consumer behavior pulls consumer towards e-commerce.
 
+## [Forces effecting e commerce](https://www.iitmanagement.com/images/Gallery/ECOMMERCE.pdf)
+* Competitive pricing
+* Product quality
+* Shipping time and cost
+* Online reviews
+* Easy return policy
+* Loyalty rewards
+* Easy navigation
+* Word of mouth recommendation
+* Ease of checkout
+* 
+
 #  3. E commerce Industry framework
 ![Screenshot from 2021-12-09 13-20-08](https://user-images.githubusercontent.com/42698268/145355780-0d84bc2a-03b4-487f-88cb-0e6662c95cf6.png)
 
@@ -128,12 +140,37 @@ The Web is also an interactive medium of human communication that supplements, a
 
 
 
-# 5. Inter organizational e commerce
+# 5. [Inter organizational e commerce](https://www.solutionweb.in/inter-organizational-transaction/)
 Inter-organizational e-commerce refers to the full spectrum of e-commerce that can occur between two organizations. It is the e-commerce between businesses i.e. the businesses focus on selling to other businesses in the B2B e-commerce. ... Companies are now mutually buying and selling products and services on the internet.
+
+It includes companies doing business with one-another with a goal to save money on purchases that can be negotiated easily. Companies are now mutually buying and selling products and services on the internet.
+
+Inter-organizational e-commerce many reduce the transaction costs, increase the availability of products and suppliers and reduce dependencies on a few trading partners and products.
+
+Moreover, they offer many secondary services towards integrating purchasing, distribution, and inventory processes, streamlining the entire transaction process. Thus, it allows better inventory management, quality control and supply chain processes.
+
+Business organizations are constantly buying and selling goods and services. Shops buy products in bulk from their suppliers and sell those goods in small quantities to their customers.
+
+Manufactures buy raw material or components from their suppliers, assemble them into new products and sell them to their customers. 
+
+Retailers make a great number of transactions and the whole operation of their business is dependent on their effective execution.
+
+Other business service sector organizations such as accountants may be less dependent on a constant flow of goods but they still need supplies and they are careful to account for the transactions with their transactions.
+
+For all businesses, there is a web of inter-organizational transactions. This web of transactions forms a value chain and is illustrated as the Logistics Network in the following figure:
+
+
+![Inter-organizational-Transaction](https://user-images.githubusercontent.com/42698268/145359422-b53fc66f-a8ec-4ca7-9653-5acee492c02e.jpg)
+
 
 # 6. Intra organizational e commerce
 * Intra Organizational E-Commerce. When e-commerce transaction does not involve multiple organization, then, it is termed as Intra-organizational e-commerce. Or. It is emerging field which facilitates information collection and transfer within organization for a speed redress of grievances of common man.
 * It is a developing field that encourages data gathering and exchange within an organization for a quick review of complaints of common people
+
+![Screenshot from 2021-12-09 13-52-34](https://user-images.githubusercontent.com/42698268/145361138-13dd26c8-7fa8-44af-9530-8964d78d52c7.png)
+
+![Screenshot from 2021-12-09 13-52-49](https://user-images.githubusercontent.com/42698268/145361143-e8496ab5-1d57-4755-9f6c-57b32989e889.png)
+
 
 # 7. Consumer to business E commerce
 
@@ -172,5 +209,46 @@ There are many benefits to the C2B e-commerce model, including:
 
 # Logical layers of e commerce
 
+
 ![Layers-of-e-commerce-activity-after-217](https://user-images.githubusercontent.com/42698268/143809034-7a94b20b-3050-4699-a178-7c5855a6df89.png)
+
+The layers have clean interfaces, that is, they can be designed independently. We present an architecture with six layers. The lowest layer consists of a physical communication network such as local area network or public switched telephone networks. The next higher layer is the logical layer which describes the protocol used to interconnect communication systems to create internet, intranet and extranet. The services provided over the internet infrastructure, namely, e-mail, world wide web etc., are described in what is called network services layer. It is essential to ensure security of messages, documents etc., which are transmitted using network services. The messaging layer is thus concerned with encryption methods, both private and public key encryption and their applications. We call the layer above this the middleman service, which is concerned with value-added services offered by intermediaries to enable payment for services received, certify digital signatures, safely transmit documents and provide information on behalf of companies. The topmost layer is the application layer which users see. The major applications are customer-to-business (C2B) e-commerce, business-to-business (B2B) e-commerce, customer-to-consumer (C2C) e-commerce etc. 
+
+## Easy view
+![Screenshot from 2021-12-09 14-18-56](https://user-images.githubusercontent.com/42698268/145364171-c5f908b7-d2eb-48df-8433-60759e81e76b.png)
+
+## complex view
+
+![Screenshot from 2021-12-09 14-20-40](https://user-images.githubusercontent.com/42698268/145364232-e5463791-51fa-4f38-8122-f1ee8b9cb68b.png)
+
+## Elaboration
+![Screenshot from 2021-12-09 14-15-23](https://user-images.githubusercontent.com/42698268/145364277-f8278f59-c130-47c7-99bc-42bffbaf4544.png)
+![Screenshot from 2021-12-09 14-15-37](https://user-images.githubusercontent.com/42698268/145364373-7acace46-9949-45cf-bae6-145ac62a7c3d.png)
+
+![Screenshot from 2021-12-09 14-15-47](https://user-images.githubusercontent.com/42698268/145364388-fc4cb692-a5c7-43e9-9dfe-69d236e24643.png)
+
+![Screenshot from 2021-12-09 14-15-56](https://user-images.githubusercontent.com/42698268/145364395-dc824aef-435c-4281-9cae-63606bbc5704.png)
+
+![Screenshot from 2021-12-09 14-16-05](https://user-images.githubusercontent.com/42698268/145364400-6b9ebda9-6ebd-47ae-9c04-a7df136d4b51.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
