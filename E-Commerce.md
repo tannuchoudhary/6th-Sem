@@ -301,3 +301,256 @@ Since the electronic token are vary from system to system when the business tran
 
 4. Risk Factors:-
 The electronic tokens may be worthless and if the customer have currency on token than nobody will accept it, If the transaction has long time between delivery of products and payments to merchants then merchant exposes to the risk. so it is important to analysis risk factor in electronic payment system.
+
+# 3. Smart card
+
+
+Smart card is similar to a credit card or a debit card in appearance, but it has a small microprocessor chip embedded in it. It has the capacity to store a customer’s work-related and/or personal information. Smart cards are also used to store money and the amount gets deducted after every transaction.
+
+Smart cards can only be accessed using a PIN that every customer is assigned with. Smart cards are secure, as they store information in encrypted format and are less expensive/provides faster processing. Mondex and Visa Cash cards are examples of smart cards.
+
+
+![3179095](https://user-images.githubusercontent.com/42698268/145429441-cfd5e5e6-8946-4ae5-be24-747e0599b1d0.jpg)
+
+
+A smart card, chip card, or integrated circuit card (ICC) is any pocket-sized card with embedded integrated circuits. Smart cards are made of plastic, generally polyvinyl chloride, but sometimes polyethylene terephthalate based polyesters, acrylonitrile butadiene styrene or polycarbonate.
+
+
+Smart cards can provide identification, authentication, data storage and application processing. Smart cards may provide strong security authentication for single sign-on (SSO) within large organizations
+
+## Types of smart cards:
+
+
+![7076046_orig](https://user-images.githubusercontent.com/42698268/145429657-28ab6f33-6300-4be6-bac9-84e6b736637e.jpg)
+
+***1. Contact smart cards***
+
+Contact smart cards have a contact area of approximately 1 square centimeter (0.16 sq in), comprising several gold-plated contact pads. These pads provide electrical connectivity when inserted into a reader,[8] which is used as a communications medium between the smart card and a host (e.g., a computer, a point of sale terminal) or a mobile telephone. Cards do not contain batteries; power is supplied by the card reader
+
+
+***2.Contactless smart cards***
+
+A second card type is the contactless smart card, in which the card communicates with and is powered by the reader through RF induction technology. These cards require only proximity to an antenna to communicate. Like smart cards with contacts, contactless cards do not have an internal power source. Instead, they use an inductor 'to capture some of the incident radio-frequency interrogation signal, rectify it, and use it to power the card's electronics
+
+Example of widely used contactless smart cards are London's Oyster card, Hong Kong's Octopus card, Tokyo's Suica and Pasmo cards  used for public transportation
+
+
+# 4. Credit card
+
+Payment using credit card is one of most common mode of electronic payment. Credit card is small plastic card with a unique number attached with an account. It has also a magnetic strip embedded in it which is used to read credit card via card readers. When a customer purchases a product via credit card, credit card issuer bank pays on behalf of the customer and customer has a certain time period after which he/she can pay the credit card bill. It is usually credit card monthly payment cycle. Following are the actors in the credit card system.
+
+   * The card holder − Customer
+   * The merchant − seller of product who can accept credit card payments.
+   * The card issuer bank − card holder's bank
+   * The acquirer bank − the merchant's bank
+   * The card brand − for example , visa or Mastercard.
+
+
+
+![Screenshot from 2021-12-09 21-18-32](https://user-images.githubusercontent.com/42698268/145428961-0b644560-e43c-4d72-9c51-8ae09e4a9e53.png)
+
+
+# 5. Electronic cheque
+
+## What Is an Electronic Check?
+
+An electronic check, or e-check, is a form of payment made via the Internet, or another data network, designed to perform the same function as a conventional paper check. Since the check is in an electronic format, it can be processed in fewer steps.
+
+Additionally, it has more security features than standard paper checks including authentication, public key cryptography, digital signatures, and encryption, among others.
+
+
+KEY TAKEAWAYS
+
+* An electronic check is a form of payment made via the internet that is designed to perform the same function as a conventional paper check.
+* One of the more frequently used versions of the electronic check is the direct deposit system offered by many employers.
+* Generally, the costs associated with issuing an electronic check are notably lower than those associated with paper checks.
+* An electronic check has more security features than standard paper checks.
+
+## How an Electronic Check Works
+
+An electronic check is part of the larger electronic banking field and part of a subset of transactions referred to as electronic fund transfers (EFTs). This includes not only electronic checks but also other computerized banking functions such as ATM withdrawals and deposits, debit card transactions and remote check depositing features. The transactions require the use of various computer and networking technologies to gain access to the relevant account data to perform the requested actions.
+
+Electronic checks were developed in response to the transactions that arose in the world of electronic commerce. Electronic checks can be used to make a payment for any transaction that a paper check can cover, and are governed by the same laws that apply to paper checks. This was the first form of Internet-based payment used by the U.S. Treasury for making large online payments.
+
+
+## The Benefits of Electronic Checks
+* Generally, the costs associated with issuing an electronic check are notably lower than those associated with paper checks. Not only is there no requirement for a physical paper check, which costs money to produce, but also electronic checks do not require physical postage in cases of payments being made to entities outside the direct reach of the entity issuing the funds.
+
+* It is estimated that while a traditional check may cost as much as $1 to issue, an electronic check costs closer to $0.10.
+
+* Electronic checks also come with a lower risk of the associated funds being stolen, as there is no tangible item to intercept.
+* Further, there are multiple levels of authentication to help ensure funds are routed properly.
+
+## Special Considerations
+One of the more frequently used versions of the electronic check is the direct deposit system offered by many employers. It is an electronic method of sending an employee’s wages directly into the employee’s bank account. Additionally, taxpayers who are owed a refund on federal tax returns can elect to receive a directly deposited electronic check from the Internal Revenue Service (IRS) instead of having a physical paper check sent through the mail.
+
+
+# 6. E cash
+
+## What Is eCash?
+* eCash was a digital-based system that facilitated the transfer of funds anonymously. A pioneer in cryptocurrency, its goal was to secure the privacy of individuals that use the Internet for micropayments. eCash was created by Dr. David Chaum under his company, DigiCash, in 1990. Though there was interest in the platform from large banks, eCash never took off and DigiCash filed for bankruptcy in 1998. DigiCash, along with its eCash patents, was eventually sold off. In 2018, Chaum launched a new startup focused on cryptography.
+* In providing a simple definition of eCash, also known as electronic cash, it is a digital money product that provides a way to pay for products and services without resorting to paper or coin currency. Two models emerged for e-cash transactions:
+
+The online form of eCash, which was introduced by the now defunct DigiCash, worked for all types of Internet transactions.
+The offline form of e-cash involved a digitally encoded card that replaced paper money. Mondex developed and tested this model with different banks, but the company has now transitioned into the development and management of smart cards also used for financial transactions.
+
+
+KEY TAKEAWAYS
+
+* eCash was an electronic platform created to transfer funds anonymously. It was a pioneer in cryptocurrency.
+* eCash was created by Dr. David Chaum and implemented via his company, DigiCash, in 1990.
+* eCash worked on the premise of blind signatures where message content is invisible before signing, resulting in no user being able to link withdrawal and spend transactions.
+* Despite the initial interest and bringing large banks on board to use the system, eCash never fully took off and DigiCash filed for bankruptcy in 1998.
+* Chaum launched a new startup in 2018 focused on cryptography.
+
+
+## Understanding eCash
+
+The idea for eCash came from Dr. David Chaum in 1983. He was ahead of his time in thinking about privacy concerns in the age of the Internet. And not only did he advocate for privacy but he took it a few steps further in creating an anonymous based payment system for the digital age. This was even before the Internet was available for public use. In 1990, Chaum created the company, DigiCash, to realize his idea for eCash.
+
+
+The core concept behind eCash was blind signatures. A blind signature is a type of digital signature in which the message's content is invisible prior to signing. In this manner, no user is able to create a link between withdrawal and spend transactions. The money used in the system was called "CyberBucks."
+
+
+## eCash's Rise and Fall
+DigiCash gained a lot of traction in the 1990s when Internet companies were taking off. The company signed deals with many banks that intended to use the platform. These banks included Deutsche Bank (DB), Credit Suisse (CS), and other banks across the globe. Microsoft was also interested in eCash for Windows 95 but the two companies couldn't agree to a deal.
+
+The banks that decided to implement eCash started testing the platform but never sold it as a viable product to its customers. The only bank that actually used the platform was Mark Twain Bank in St. Louis, Missouri. The service was free to buyers, but sellers had to pay a transaction fee. Mark Twain Bank had signed up 300 businesses and 5,000 individual users but the platform never gained traction. According to Chaum, "As the Web grew, the average level of sophistication of users dropped. It was hard to explain the importance of privacy to them."
+
+DigiCash eventually filed for bankruptcy in 1998. It was sold off to eCash Technologies along with its patents for eCash. The trademark for the name is now with Due Inc. Due was founded in 2015 and is ranked one of the top 10 e-wallets in the world
+
+
+## eCash and Online Security Today
+Despite the failure of DigiCash and with it eCash, online security is an ongoing issue in the digital realm to this day. Financial information, stored on a computer or electronic device, or the Internet more generally (e.g., the cloud) is vulnerable to hackers. Cryptocurrencies are extremely popular today and owe their foundations to eCash. The most popular cryptocurrency is Bitcoin, which was created in 2009 by an anonymous creator and had a better luck gaining traction quickly. Overall, many consider Dr. Chaum to be the father of digital currency.
+
+In 2018, Chaum launched a new startup called Elixxir, whose purpose is to create a cryptography network focused on communication anonymity, that is controlled by users to protect their information, as opposed to the current setup, where companies have detailed access to consumer information and use it for targeting ads to generate revenue.
+
+
+
+# 7. Risk and solution in electronic payment system
+
+Electronic payments allow you to transfer cash from your own bank account to the bank account of the recipient almost instantaneously. This payment system relies heavily on the internet and is quite popular due to the convenience it affords the user. It would be hard to overstate the advantages of electronic payment systems, but what about the risks? Certainly they exist, both for financial institutions and consumers.
+
+## a. The Risk of Fraud
+Electronic payment systems are not immune to the risk of fraud. The system uses a particularly vulnerable protocol to establish the identity of the person authorizing a payment. Passwords and security questions aren’t foolproof in determining the identity of a person. So long as the password and the answers to the security questions are correct, the system doesn’t care who’s on the other side. If someone gains access to your password or the answers to your security question, they will have gained access to your money and can steal it from you.
+
+## b. The Risk of Tax Evasion
+The law requires that businesses declare their financial transactions and provide paper records of them so that tax compliance can be verified. The problem with electronic systems is that they don’t fit very cleanly into this paradigm and so they can make the process of tax collection very frustrating for the Internal Revenue Service. It is at the business’s discretion to disclose payments received or made via electronic payment systems in a fiscal period, and the IRS has no way of knowing if it’s telling the truth or not. That makes it pretty easy to evade taxation.
+
+## c. The Risk of Payment Conflicts
+One of the idiosyncrasies of electronic payment systems is that the payments aren’t handled by humans but by an automated electronic system. The system is prone to errors, particularly when it has to handle large amounts of payments on a frequent basis with many recipients involved. It’s important to constantly check your pay slip after every pay period ends in order to ensure everything makes sense. Failure to do this may result in payment conflicts caused by technical glitches and anomalies.
+
+## d. The Risk of Impulse Buying
+Impulse buying is already a risk that you face when you use non-electronic payment systems. It is magnified, however, when you’re able to buy things online at the click of a mouse. Impulse buying can become habitual and makes sticking to a budget almost impossible.
+
+
+## MEASURES TO REDUCE E PAYMENT RISK:
+
+## a. Achieve and maintain PCI Compliance.
+The Payment Card Industry’s Data Security Standard (PCI DSS) is a set of standards and requirements to help ensure that all online merchants and their customers are protected from fraud and data breaches. Achieving and maintaining your compliance via the PCI Compliance Guide is a critical first step to protecting your eCommerce business. In fact, failing to maintain compliance could result in hefty fines — and could ultimately result in loss of services from reputable eCommerce vendors.
+
+
+## b. Recognize signs of suspicious activity.
+* Unusually large orders or high-priced orders
+* Expedited shipping on large quantities or high-priced orders
+* Expedited shipping when billing and shipping addresses differ
+* Orders where the purchaser asks to pick up the order at your location
+* Fake phone numbers (e.g. 555-987-6543)
+* Suspect email addresses (e.g. 1234XYZ@gmail.com, or addresses that seem like randomly generated combinations of numbers and letters)
+* Inconsistent address information (e.g. zip code doesn’t match state or city)
+
+
+## c. USE SET
+
+* Secure Electronic Transaction (SET) was a communications protocol standard for securing credit card transactions over insecure networks, specifically, the Internet.
+* It was supported initially by Mastercard, Visa, Microsoft, Netscape, and others. 
+* With SET, a user is given an electronic wallet (digital certificate) and a transaction is conducted and verified using a combination of digital certificates and digital signatures among the purchaser, a merchant, and the purchaser's bank in a way that ensures privacy and confidentiality. 
+* SET makes use of Netscape's Secure Sockets Layer (SSL), Microsoft's Secure Transaction Technology (STT), and Terisa System's Secure Hypertext Transfer Protocol (S-HTTP). SET uses some but not all aspects of a public key infrastructure (PKI).
+
+
+## d. AVS: 
+Address Verification System is an automated fraud prevention method used to reduce the risk for merchants selling in the “card-not-present” – e. g. online or telephone purchase – environment. AVS checks the billing address listed in the transaction against any other address registered with the issuing bank. Merchants should request both billing and shipping addresses of the consumer so an AVS check can be conducted before a transaction is processed.
+
+## e. CVV: 
+Card Verification Value is the three-digit security code printed on the back of the credit or debit card (in the case of American Express, four digits on the card front). It is not stored in the magnetic strip or embossed on the card, so it can’t be as easily retrieved by thieves unless the card is in their possession. Visa calls it a CVV2, MasterCard calls it a CVC2, and American Express calls it CID. 
+
+
+## f. Geolocation by IP Address: 
+This can help to identify the consumer’s precise location or determine the distance between billing address of the person who is paying for the product and actual location of the person who is placing the online order. Thus, it acts as an additional verification measure or authentication for transactions that have a significant distance discrepancy. Geolocation technology provides information that assistance online business owners conclude which transactions to look deeply into and which to clear. This leads to an even balance between the risks of losses due to fraudulent activity and the risk of preventing legitimate customers from completing their purchases.
+
+
+# 8. Designing electronic payment system
+
+![Screenshot from 2021-12-10 00-38-30](https://user-images.githubusercontent.com/42698268/145460048-2dd09be5-2209-413f-a3bf-945145735026.png)
+
+![Screenshot from 2021-12-10 00-39-25](https://user-images.githubusercontent.com/42698268/145460304-275ee90e-acca-4afb-bf9b-ea37e71fa2bc.png)
+
+
+![Screenshot from 2021-12-10 00-40-06](https://user-images.githubusercontent.com/42698268/145460310-29a4fb06-3030-4c76-b951-4cb0de02ba08.png)
+![Screenshot from 2021-12-10 00-40-19](https://user-images.githubusercontent.com/42698268/145460320-d1f4f13c-b395-441c-8305-5b7a99fbef17.png)
+
+
+![Screenshot from 2021-12-10 00-40-35](https://user-images.githubusercontent.com/42698268/145460329-50d38ecc-16de-44ce-8b79-a4f6665ff7e7.png)
+
+
+# MODULE 3
+
+# 1. FTP
+
+![Screenshot from 2021-12-10 00-43-56](https://user-images.githubusercontent.com/42698268/145460839-ea172e46-4822-4c94-93cf-1d7cdb0e9160.png)
+
+![Screenshot from 2021-12-10 00-44-06](https://user-images.githubusercontent.com/42698268/145460849-36885b59-334e-4013-a93f-5a313fc91303.png)
+
+
+![Screenshot from 2021-12-10 00-44-18](https://user-images.githubusercontent.com/42698268/145460860-054f7aeb-6838-4742-a9d5-b2c9dbb18a58.png)
+
+
+![Screenshot from 2021-12-10 00-44-29](https://user-images.githubusercontent.com/42698268/145460865-a128d88d-a010-4373-92aa-9e6b5ff31c56.png)
+
+
+# 2. E mail
+
+![Screenshot from 2021-12-10 00-47-49](https://user-images.githubusercontent.com/42698268/145461764-ff021e09-a4e9-4fa2-a589-ca7ff08c9a08.png)
+
+
+![Screenshot from 2021-12-10 00-48-05](https://user-images.githubusercontent.com/42698268/145461776-766b0ea5-914e-4da8-b389-ed0cbf1fffa5.png)
+
+![Screenshot from 2021-12-10 00-48-18](https://user-images.githubusercontent.com/42698268/145461782-5bd27f33-969d-4390-8085-99f6109dc635.png)
+
+![Screenshot from 2021-12-10 00-48-34](https://user-images.githubusercontent.com/42698268/145461808-c4c76d50-89ef-45c4-abed-3d34eaf5ddd4.png)
+
+
+![Screenshot from 2021-12-10 00-49-00](https://user-images.githubusercontent.com/42698268/145461813-46823639-0a07-4b68-b3e0-a7b49ba8c78b.png)
+
+![Screenshot from 2021-12-10 00-49-21](https://user-images.githubusercontent.com/42698268/145461827-7f8242d5-8b70-40d8-9470-64e606d14f74.png)
+
+
+![Screenshot from 2021-12-10 00-49-32](https://user-images.githubusercontent.com/42698268/145461832-0995f679-87b8-49da-bea7-97edd0ff4ee3.png)
+
+![Screenshot from 2021-12-10 00-49-47](https://user-images.githubusercontent.com/42698268/145461841-2e8ff75e-7d42-4c2c-8bc0-c5c930082f4a.png)
+
+
+![Screenshot from 2021-12-10 00-50-22](https://user-images.githubusercontent.com/42698268/145461846-2bfdd718-bc1a-4a68-bedd-c9ca158c3a19.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
