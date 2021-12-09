@@ -37,9 +37,11 @@
 * Teleconferencing
 * Virtual assistant (artificial intelligence)
 * Domestic and international payment systems
-* Advantages of E-commerce:
 
-## E-commerce enables fast and secure shopping.
+
+## Advantages of E-commerce:
+
+* E-commerce enables fast and secure shopping.
 * It is making digitalized world.
 * E-commerce also enables to choose different goods and services according to your choice.
 * It is a simple way of selling and buying products and services.
