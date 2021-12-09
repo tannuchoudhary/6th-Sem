@@ -548,7 +548,284 @@ This can help to identify the consumer’s precise location or determine the dis
 
 
 
+# MODULE 5
+# 1. Paper vs Electronic document
 
+## 1.1 The magnitude of electronic data is way larger than paper documents
+This point is obvious to the majority of observers. Today’s typical disks
+are at several dozens gigabytes and these sizes grow constantly. A typical
+medium-size company will have PC’s on the desks of most white-collar
+workers, company-related data, accounting and order information,
+personnel information, a potential for several databases and company
+servers, an email server, backup tapes, etc.
+Such a company will easily have several terabytes of information.
+Accordingly1, such a company has over 2 million documents. Just one
+personal hard drive can contain 1.5 million pages of data, and one
+corporate backup tape can contain 4 million pages of data. Thus the
+magnitude of electronic data that needs to be handled in discovery is
+staggering. In most corporate civil lawsuits, several backup tapes, hard
+drives, and removable media are involved.2
+
+
+##  1.2 Variety of electronic documents is larger than paper documents
+Paper documents are ledgers, personnel files, notes, memos, letters,
+articles, papers, pictures, etc. This variety exists also in electronic form.
+But then spreadsheets are way more complex than ledger, for example.
+They contain formulas, may contain charts, they can serve as databases,
+etc.
+In addition to all added information, e.g. charts, ability to view the actual
+computations involved, e.g. formulae, the electronic spreadsheet
+supports experimentation with what-if version the discoverer may want
+to investigate.
+Personal digital assistants, pocket PCs, palm devices or BlackBerry
+devices, are subject to electronic discovery. Many of these devices can be 
+used to send and retrieve e-mails. Since an e-mail deleted from a
+network may still exist on an individual employee’s PDA, parties may
+demand discovery of the contents of PDAs. 
+
+## 1.3 Electronic documents contains attributes lacking in paper documents
+Computers maintain information about your documents, referred to as
+“metadata,” such as: author’s name, document creation date, date of it
+last access, etc. A hard copy of the document does not reveal metadata,
+although certain metadata items may be printed. Depending on what you
+do with the document after opening it on your computer screen, the
+actions taken may change the metadata collected about that document.
+Paper documents were never this complex. 
+
+## 1.4 Electronic documents are more efficient than paper documents
+Paper documents are delivered by mail and stored locally in filing
+cabinets3. For multiple users to access documents simultaneously one
+needs a set of documents per each accessing person. File cabinets are
+bulky and use up valuable office space. Paper documents are difficult to
+search, carry, copy, and modify. Paper documents are easily damaged,
+misfiled or misplaced.
+Electronic documents are delivered by networks, disks, flash memory
+and CD/DVD and are stored on a file system. Multiple users can read
+and review electronic document simultaneously. Computer file systems
+are getting smaller and contain more data every year. Personal file
+systems are physically smaller than a small cell phone; only very large
+companies need massive file systems that occupy a lot of real estate. It is
+almost too easy to search, carry, copy, and modify electronic documents.
+Electronic documents, in a well run operation, have copies and damage
+to a single copy causes extra work but no loss
+
+## 1.5 The structure of electronic documents may reach complexity absent
+from paper documents
+A description of the structure of an object (i.e. document) identifies its
+component parts and the nature of the relationships between those
+parts4. Describing documents (i.e. objects) this way points to the
+complexity of electronic documents.
+The following list shows some aspects of the complexity of electronic
+documents.
+• An electronic document may consist of subdocuments that do not
+even have to reside on the same computer. 
+
+• An electronic document may be written in HTML and displayed by
+a Web browser. Such paper documents don’t even exist.
+
+• An electronic document may have hyperlinks5 to other documents.
+
+• An electronic document may have dynamic parts. This holds in an
+obvious way to Web pages that can include (and invisible to the
+reader) programs in languages such as JavaScript and ASP, which
+run in the browser and the reader views only the results of these
+runs. It may also hold to text document or spreadsheets as a result
+of embedded executable fields, functions and macros.
+
+• Electronic documents have much wider spectra than paper ones as
+they can include not only the classic, word-processed text but
+tables, databases or a part thereof as well as image, voice and
+video. 
+
+
+## 1.6 Electronic documents are more persistent and more difficult to
+destroy than paper documents
+Paper documents are easy to destroy. Throwing away or shredding
+makes paper documents disappear. Deleting an electronic document
+eliminates only the ubiquitous accessible copy. The document, i.e. its
+data, still exists and in systems such as Windows and Mac OS, an
+accessible reference to deleted documents may be in the trash bin.
+Restoring a document in the trash bin, i.e. a deleted document, revives
+the document to its original glory.
+Even removing the document from the thrash bin does not erase the
+documents data off the disk. Once removed from the thrash bin,
+documents data areas on the disk go into a “fee list” that makes those
+areas available for future data creation needs. The free list contains all
+areas not currently allocated to active documents as well as to deleted
+documents still in the trash bin. How long will an area stay on the free
+list (thereby still containing the deleted documents data)? That is difficult
+to predict due the huge variability of factors such as: future demand for
+disk space, size of current and future files, the current availability of disk
+space, etc.
+Even the complete deletion of a document, its trash bin instance and the
+allocation of the document’s data area on the disk does not typically
+extinguishes the document altogether. Several practices create copies of
+documents and are only marginally affected by document deletion:
+
+• Backups – most organizations and individuals create back up
+copies of documents as regular practice as precautionary actions.
+The backups are maintained independently of the document itself. 
+
+• Documents may be exchanged by email, access through web pages
+and manually handed electronic copies. Thus created copies
+continue to exist after the deletion of the original document.
+
+• Even work on a simple text document is quite frequently preceded
+by creating a copy of the document being edited. Once again, such
+copies persist beyond the deleted document unless specifically
+deleted.
+
+## 1.7 Electronic documents change faster, more frequently and easier than paper documents
+Changes to an electronic document are fast and easy. The reason is
+obvious; all you need to do is make the change and save it. Changes to
+paper documents, however, require retyping the whole document.
+There are many other reasons to the difference in speed and frequency.
+We already said that documents may be dynamic. Web pages are made
+dynamic in order to ease change.
+For discovery, faster and frequent changes imply a need for a more
+meticulous and length monitoring of document discovery.
+
+## 1.8 Electronic documents last longer than paper documents
+Paper deteriorates with time; paper documents can be destroyed by flood
+and fire. Although these factors have their parallels in electronic
+documents, e.g. a flooded computer loses its data; typical backups of the
+documents practices maintain copies away from the “office.” Paper
+documents may enjoy the same treatment, but the frequency, extent and
+usage of such backups is substantially smaller.
+Electronic document suffer from upgrades in technology. If one used a
+peculiar word processor, e.g. WordStar, to write a document ten years
+ago, today it will be difficult to find a tool to read that document. Same
+holds for spreadsheets, databases, etc. Again, most companies have
+practices that avoided such problem by evolving documents with time.
+
+## 1.9 The redundancy in electronic documents is higher than in paper
+documents
+There are several levels of redundancy to electronic documents.
+
+• Due to the type of recording used for electronic data, minor errors
+in a document can be corrected by computer tools. The tools rely
+on the redundancy of checksums and other devices 
+
+• Due to frequent changes in documents, individuals learn to save
+previous versions of the documents. Doing that generates
+redundancy of document versions.
+
+• Emails, flash memories, CDs all proliferate documents and result
+in high redundancy
+
+• Most companies and many individuals make backup of documents 
+
+• Tool that control versioning of files create built-in redundancy 
+
+## 1.10 An electronic data is more likely to be created by several individuals than a paper document
+
+MS Word supports “Document Collaboration.6” Where this term implies:
+“new objects, properties, and methods of the Word 10.0 Object Library
+shown in this article allow you to change the display of revisions and
+comments, accept and reject revisions, and start and end a collaborative
+review cycle.”
+Another tool, Workshare 37, is an add-on to Microsoft Word that
+manages collaboration on Word documents and integrates this activity
+with email and the organization’s document repository tool.
+Collaborations on databases (e.g. people using a bank’s ATMs update the
+bank’s database), spreadsheets (e.g. BadBlue8), and Web sites are
+commonly practiced.
+This dwarfs collaborations on paper documents possible.
+For discovery it implies that the author of a Word document may not be
+the only person involved in writing the document. One has to determine
+all the parties that collaborated on the document.
+
+## 1.11 Electronic documents may be created by electronic means while
+paper documents are created by humans
+Paper documents are always written by human beings. That is not
+necessarily the case with documents. We start with a simple, and rather
+common, example. The Quicken financial program will generate financial
+reports from a database of financial transactions.
+
+## 1.12 Electronic discovery requires support of an infrastructure that paper
+discovery has never needed
+The large volumes of data, its complexity, its variety of electronic
+documents have brought about many types of computer tools to help
+overcome the obvious difficulties.
+Socha Consulting9 provides the following entries in its Tools section (we
+drop the commercial part and use just the generic description):
+
+• Electronic discovery software; allows users to evaluate and
+manage electronic documents
+
+• Automated litigation support software; allows users to organize,
+search, and retrieve e-mail with attachments
+
+• Open, view, print and convert various files types
+
+• Review, acquire and analyze digital information on individual
+machines or across a wide-area-network
+
+• View and access contents of various file types
+
+• Automated litigation support software; allows users to process
+electronic files 
+
+
+# 2. Authentication of Electronic document
+
+The term authentication refers to an electronic process that allows for the electronic identification of a natural or legal person. Additionally, authentication may also confirm the origin and integrity of data in electronic form, such as the issuance of a digital certificate to attest to the authenticity of a website. The overall purpose of authentication is to reduce the potential for fraud, especially in the event of an individual purposely misrepresenting their identity or through the unauthorized use of another person’s credentials.
+
+
+The terms digital authentication or electronic authentication (e-authentication) synonymously refer to the process where the confidence in user identities is established and presented electronically to an information system.
+
+The digital authentication process presents a technical challenge due to the necessity of authenticating individual people or entities remotely over a network.
+
+Its level of security depends on the applied type of authentication, the authentication factors used, as well as the process of authentication applied.
+
+![Screenshot from 2021-12-10 02-52-19](https://user-images.githubusercontent.com/42698268/145481420-31f3cbb7-8a9f-42ba-bdcb-26b0929e4c69.png)
+
+![Screenshot from 2021-12-10 03-20-47](https://user-images.githubusercontent.com/42698268/145481432-a0eabe5e-4b41-46e0-a07f-8c223f86e380.png)
+
+![Screenshot from 2021-12-10 03-20-54](https://user-images.githubusercontent.com/42698268/145481436-17fefa38-48eb-4c58-89d5-e20f2dbb35b8.png)
+
+
+# 3. Legal issues of E commerce
+
+With the advanced and increased use of online media, online business is becoming a fast emerging trend. Every five in eight companies are operating online, conducting E-Commerce business. But being functional online doesn’t mean you can escape legal matters. E-Commerce is understood to mean the production, distribution, marketing, sale or delivery of goods and services by electronic means. Over the past few years, global trade has expanded due to the explosive growth of electronic commerce.
+
+There are various legal issues associated with E-Commerce businesses. If these issues are not taken care of in time, they can lead to serious problems for a business. Described below are some of the common legal issues an E-Commerce business faces.
+
+## a. Incorporation Problem
+
+If the company has operated merely via a website, not being incorporated is a crucial problem. Any purchase and selling activity related to the products will be considered illegal and you can’t claim your right in case of any fraud and corruption. Without incorporation, the business has no shelter.
+
+## b. Trademark Security Problem
+
+Not getting trademark protected is one of the main legal issues in the field of E-Commerce. Since trademark is the company’s logo and symbol, the representation of  business all over the web, it must be protected. If it is not secure , it won’t take long before you realize your trademark is being infringed upon. This is very common legal issue and can become a deadly threat to  e-business.
+
+With the hackers on loose and cybercrime so common, trademark infringement of the business or by your business can be a serious legal matter and may hinder the business’s progress.
+
+
+## c. Copyright Protection Issue
+
+While publishing content for  E-Commerce website, using content of any other company can be a severe legal problem. This might mark an end to your e-business. There are many sites online which are royalty free and allow you to access their content and images. You may use those sites for creating web content for your business site. Even if you unintentionally used copyrighted content, the other party can easily sue your business.
+
+## d. Transaction Issues
+
+If we do not abide by the rules, we can get into serious law violation problems. If the business fails to provide clear and complete description of the product, cost and purchase details, information about delivery i.e. when the customer will receive products and other information related to exchange and refunds,  Consumer Law can impose penalties on the business.
+
+## e. Privacy Issues
+
+When it comes to online businesses, privacy is the major issue that can create problems both for the business and customers. Consumers share information with businesses online and they expect the sellers to keep their information confidential. By just one minor mistake and leakage of valuable information of a customer, we will not only lose our potential customer but the image and reputation will become a question mark.
+
+## f. Advertising
+The advertisements should make truthful and honest representations and avoid false and misleading claims, should not be offensive to public decency or morality, not promote products which are hazardous or harmful to society or to individuals, particularly minors, observe fairness in competition keeping in mind consumer's interests and avoid obscene or harmful publication and indecent representation of women.
+
+## g. Competition
+ E-commerce players should refrain from collusion and excessive pricing. Options for parties to use same web platform for different kinds of products/services can give rise to different intermediaries and that can lead to collusive behavior. Market transparency should be encouraged.
+
+## h. E-contracts:
+Electronic contracts are governed by the basic principles provided in the Indian Contract Act, 1872 ("ICA"), which mandates that a valid contract should have been entered with a free consent and for a lawful consideration between two adults. Section 10A of the Information Technology Act, 2000 ("IT Act") provides validity to e-contracts. So, both ICA and IT Act needs to be read in conjunction to understand and provide legal validity to e-contracts. Further, section 3 of the Evidence Act provides that the evidence may be in electronic form. The Supreme Court in Trimex International FZE Ltd. Dubai v. Vedanta Aluminum Ltd.1has held that e-mails exchanges between parties regarding mutual obligations constitute a contract.
+
+## Conclusion
+
+The bursting of the dotcom bubble has made several companies realise that doing business on the Internet is not as easy as it sounds. Undoubtedly, the power of the Internet to reach any part of the world holds tremendous potential for enhancing international trade and boosting global economy. However, just as every coin has a flip side, we have seen that doing business on the Internet also has risks and legal issues associated with it. The rapid pace of E-Commerce development has generally left the legal system struggling to keep up. In much the same way as companies doing E-Commerce must invent new business procedures and rules, the legal system is trying to adapt existing laws to fit new settings where it is simply unclear how these laws will apply. In the midst of this legal confusion, India is one of the few countries across the globe that has enacted an E-Commerce legislation. However, much more is needed to effectively regulate the tangled web.
 
 
 
