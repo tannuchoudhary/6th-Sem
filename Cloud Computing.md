@@ -1,4 +1,4 @@
-# Cloud Computing, Pay-as-you-go
+# [Cloud Computing, Pay-as-you-go](https://www.youtube.com/watch?v=NyA9PB6j8bg)
 # Introduction to cloud computing
 
 The National Institute of Standards and Technology(NIST) Defines Cloud Computing as "Cloud Computing is a model for enabling ubiquitous ``` (can be accessed from everywhere) ```, convenient ``` (easy installation, easy notfications) ```, on-demand network access to a shared pool of configurable computing resources(for example, networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction."
