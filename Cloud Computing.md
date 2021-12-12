@@ -1,3 +1,4 @@
+# Lecture 1
 # [Cloud Computing, Pay-as-you-go](https://www.youtube.com/watch?v=NyA9PB6j8bg)
 # Introduction to cloud computing
 
@@ -136,7 +137,44 @@ IaaS: IaaS allows businesses to purchase resources on-demand and as-needed inste
 # Summary
 ![Screenshot from 2021-08-12 12-58-55](https://user-images.githubusercontent.com/42698268/129157376-1c77ddf6-ff64-40a7-ba1b-2bfa272bd8de.png)
 
+# Lecture 2
+![Screenshot from 2021-12-12 13-18-55](https://user-images.githubusercontent.com/42698268/145709602-d19a6ce9-9016-4835-bcf2-f244aea02777.png)
 
-# MODULE 1
-![Screenshot from 2021-12-11 13-44-00](https://user-images.githubusercontent.com/42698268/145669638-46041285-ed9b-424a-b452-0e0c3c417365.png)
+![Screenshot from 2021-12-12 13-19-23](https://user-images.githubusercontent.com/42698268/145709607-8fd461fc-e655-4905-827a-e8fcb445acb4.png)
+
+![Screenshot from 2021-12-12 16-25-44](https://user-images.githubusercontent.com/42698268/145709609-2c683c1f-e74f-4fdf-b191-32f6514de162.png)
+
+![Screenshot from 2021-12-12 16-25-52](https://user-images.githubusercontent.com/42698268/145709612-a480ed5e-5f64-414c-8e7e-023f0ccbdb66.png)
+
+![Screenshot from 2021-12-12 16-28-21](https://user-images.githubusercontent.com/42698268/145710020-45539c9f-5368-49de-822d-81d6079c3241.png)
+
+![Screenshot from 2021-12-12 16-30-12](https://user-images.githubusercontent.com/42698268/145710022-69a473d7-67c1-40a8-a798-b866c520ef16.png)
+
+
+![Screenshot from 2021-12-12 16-31-02](https://user-images.githubusercontent.com/42698268/145710025-37671e8a-4c6e-4df3-907c-8f81a265f6c2.png)
+![Screenshot from 2021-12-12 16-31-56](https://user-images.githubusercontent.com/42698268/145710032-4685d615-239b-4db1-b96f-38e3d0a87d0d.png)
+
+![Screenshot from 2021-12-12 16-33-20](https://user-images.githubusercontent.com/42698268/145710037-132c2456-32d0-40e5-9f61-f8aa0273aea4.png)
+
+![Screenshot from 2021-12-12 16-38-46](https://user-images.githubusercontent.com/42698268/145710040-bdff54ce-741a-4cf6-963e-7ff77a3e8b5c.png)
+
+![Screenshot from 2021-12-12 16-41-57](https://user-images.githubusercontent.com/42698268/145710041-2e196f82-cc1b-4150-9e30-fc2ed945236d.png)
+
+# Module 5- VIRTUALIZATION
+
+# Virtualization, Hardware Virtualization with characteristics
+
+![Screenshot from 2021-12-12 17-18-37](https://user-images.githubusercontent.com/42698268/145710958-e9802c5c-a6b0-41c7-ab5e-7377db579c5b.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
