@@ -250,6 +250,17 @@ Learning rule or Learning process is a method or a mathematical logic. It improv
 
 ![Screenshot from 2021-12-01 23-57-27](https://user-images.githubusercontent.com/42698268/144293875-1e599129-b5b9-4eaf-8b31-8ff4493240df.png)
 
+# 7. [Learning rules Delta and perceptron](https://data-flair.training/blogs/learning-rules-in-neural-network/)
+
+![Screenshot from 2021-12-14 22-53-47](https://user-images.githubusercontent.com/42698268/146048524-4b0c20d3-710f-416d-85a8-fe1cdfa10246.png)
+
+![Screenshot from 2021-12-14 22-53-55](https://user-images.githubusercontent.com/42698268/146048537-f0022f3f-0c54-464b-979e-bd714c426cdf.png)
+
+
+![Screenshot from 2021-12-14 22-53-13](https://user-images.githubusercontent.com/42698268/146048551-5fe9a2f7-b43f-434a-b747-ae2d9b471fc0.png)
+
+![Screenshot from 2021-12-14 22-55-45](https://user-images.githubusercontent.com/42698268/146048787-d06ab53e-531e-4c2f-847d-388378c98e62.png)
+
 
 ## [Perceptrons Learning rule](https://www.youtube.com/watch?v=1vEh29LM8MI)
 
@@ -258,9 +269,33 @@ Learning rule or Learning process is a method or a mathematical logic. It improv
 ![Screenshot from 2021-12-02 00-21-13](https://user-images.githubusercontent.com/42698268/144299386-1df8b8c5-7094-47fb-a5fa-5381d147945a.png)
 
 
+
+# 8.  Back propogation
+
+![Screenshot from 2021-12-14 23-02-54](https://user-images.githubusercontent.com/42698268/146050265-ed959bc6-b91b-46a2-a40f-53cd1cff904c.png)
+
+
+
+![Screenshot from 2021-12-14 23-03-32](https://user-images.githubusercontent.com/42698268/146050289-808a05ea-9dea-49ae-8e89-41344db51dbe.png)
+
+
+![Screenshot from 2021-12-14 23-03-46](https://user-images.githubusercontent.com/42698268/146050294-fd164c8e-4986-4599-ac01-95ca4f441854.png)
+
+
+![Screenshot from 2021-12-14 23-04-03](https://user-images.githubusercontent.com/42698268/146050297-8217ed85-efbb-4818-b3bb-c81ff7ee832f.png)
+
+
+![Screenshot from 2021-12-14 23-04-18](https://user-images.githubusercontent.com/42698268/146050305-999d6e78-61cf-436e-a475-34f2de04c5ae.png)
+
+![Screenshot from 2021-12-14 23-04-28](https://user-images.githubusercontent.com/42698268/146050316-a1c4d587-a01c-46e3-907f-7f9d6d6e915a.png)
+
+
+
+
+
 # MODULE 3
 
-## [Competitive learning](https://www.youtube.com/watch?v=lvJ8YcYTyx8)
+## [1. Competitive learning](https://www.youtube.com/watch?v=lvJ8YcYTyx8)
 
 ![Screenshot from 2021-12-02 00-55-24](https://user-images.githubusercontent.com/42698268/144301798-a36079fb-1282-4b61-bd48-ca1074a06810.png)
 
@@ -310,12 +345,12 @@ As said earlier, there would be competition among the output nodes so the main c
 
 
 
-## [Kohonen Self-organizing networks](https://www.youtube.com/watch?v=WCYlimxurkg)
+## [2. Kohonen Self-organizing networks](https://www.youtube.com/watch?v=WCYlimxurkg)
 
 ![Screenshot from 2021-12-02 01-11-50](https://user-images.githubusercontent.com/42698268/144302569-63544563-ad0b-44ac-896e-1ed050848acb.png)
 
 
-## [Hebbian learning](https://www.youtube.com/watch?v=egvQ-O4dQnU)
+## [3. Hebbian learning](https://www.youtube.com/watch?v=egvQ-O4dQnU)
 
 ![Screenshot from 2021-12-02 01-15-09](https://user-images.githubusercontent.com/42698268/144303059-bb1bca7b-81be-4434-b9e3-b6f2cb220b21.png)
 
