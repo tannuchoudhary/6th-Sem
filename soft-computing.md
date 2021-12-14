@@ -10,7 +10,7 @@
 * Soft computing
 * Hard computing
 
-## [What is Soft computing](https://www.youtube.com/watch?v=qiwTn-JMNO0&list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-&index=2&t=465s)?
+## [1. What is Soft computing](https://www.youtube.com/watch?v=qiwTn-JMNO0&list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-&index=2&t=465s)?
 
 ![Screenshot from 2021-12-01 23-04-30](https://user-images.githubusercontent.com/42698268/144294008-cff97746-0c38-466f-b191-f2b2964f7d61.png)
 
@@ -25,7 +25,7 @@
 
 Hard Computing is that the ancient approach employed in computing that desires Associate in Nursing accurately declared analytical model. the outcome of hard computing approach is a warranted, settled, correct result and defines definite management actions employing a mathematical model or algorithmic rule. It deals with binary and crisp logic that need the precise input file consecutive. Hard computing isn’t capable of finding the real world problem’s solution.
 
-## Difference between soft computing and hard computing
+## 2. Difference between soft computing and hard computing
 
 ![Screenshot from 2021-11-30 01-36-08](https://user-images.githubusercontent.com/42698268/143936759-a0d652e0-664b-4797-8458-90089f3be757.png)
 
@@ -97,13 +97,13 @@ Consider a problem where a string w1 is “abc” and string w2 is “abd”.
  
 * In this field of Computer Engineering, you can say it is core part of soft computing and computing working on advanced level like Machine learning, Artificial intelligence, etc.
 
-## Various types of soft computing techniques
+## 3. Various types of soft computing techniques
 There are three types of soft computing techniques which include the following.
 * Artificial Neural Network.
 * Fuzzy Logic.
 * Genetic algorithm.
 
-## [Applications of soft computing](https://wisdomplexus.com/blogs/applications-soft-computing/)
+## [4. Applications of soft computing](https://wisdomplexus.com/blogs/applications-soft-computing/)
 * Handwritten Script Recognition
 * Image Processing and Data Compression
 * Automotive Systems and Manufacturing
@@ -116,7 +116,7 @@ There are three types of soft computing techniques which include the following.
 
 # MODULE - 2
 
-## [Overview of biological neuron](https://www.youtube.com/watch?v=MqABY2u5q9Y)
+## [1. Overview of biological neuron](https://www.youtube.com/watch?v=MqABY2u5q9Y)
 
 ![Screenshot from 2021-12-01 23-28-40](https://user-images.githubusercontent.com/42698268/144288264-bcb61d79-75bd-48af-bb83-283e56ea2d3f.png)
 
@@ -161,7 +161,7 @@ There are three types of soft computing techniques which include the following.
 * The interactions of different types of noise with different elements of artificial neural networks is still a wide-open research topic. We know noise can be used to regularize their performance or to help avoid local minimums in gradient descent.
 * The brain’s ability to restructure its connections is called synaptic plasticity, and it is achieved through Long-Term Potentiation. Artificial neural networks determine their connectivity using gradient descent during training. The gradient is calculated using backpropagation, which we can compare to Hebbian Long-Term Potentiation.
 
-## Mathematical models of neurons
+## 2. Mathematical models of neurons
 
 ![Screenshot from 2021-12-01 23-43-03](https://user-images.githubusercontent.com/42698268/144290522-fed638d6-3b9c-4d60-8bdc-f52f42a28da3.png)
 ![Screenshot from 2021-12-01 23-43-39](https://user-images.githubusercontent.com/42698268/144290552-1cb1de34-9f6d-4e4d-9e1b-76ef74311d78.png)
@@ -169,7 +169,7 @@ There are three types of soft computing techniques which include the following.
 
 
 
-## [Artificial neural networks](https://youtu.be/qYzr845pIXk)
+## [3. Artificial neural networks](https://youtu.be/qYzr845pIXk)
 * Artificial neural network is an efficient computing system whose structure is defined by biological neural network
 Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems inspired by the biological neural networks that constitute animal brains. An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain.
 
@@ -197,6 +197,7 @@ Artificial neural networks (ANNs), usually simply called neural networks (NNs), 
 ![Screenshot from 2021-11-30 09-32-18](https://user-images.githubusercontent.com/42698268/143984046-b422fec0-b206-4b6d-b91c-60c6b9c4106d.png)
 
 
+
 ## [Single layer network](https://youtu.be/_5IoG_EvH0w)
 
 ![Screenshot from 2021-11-30 09-43-59](https://user-images.githubusercontent.com/42698268/143985089-dd07828d-3d51-451f-aba7-922b2f69a465.png)
@@ -209,9 +210,11 @@ Artificial neural networks (ANNs), usually simply called neural networks (NNs), 
 ## [Back propogation](https://youtu.be/CMNJF6D02R8)
 ![Screenshot from 2021-11-30 09-54-02](https://user-images.githubusercontent.com/42698268/143985447-9d6a923e-fafa-4f62-a6c1-13f84aa36109.png)
 
+## 4. Learning rules
 
+Learning rule or Learning process is a method or a mathematical logic. It improves the Artificial Neural Network's performance and applies this rule over the network. Thus learning rules updates the weights and bias levels of a network when a network simulates in a specific data environment.
 
-# [Types of machine learning techniques: Supervised, unsupervised and reinforcement learning](https://youtu.be/4dwsSz_fNSQ)
+# [5. Types of machine learning techniques: Supervised, unsupervised and reinforcement learning](https://youtu.be/4dwsSz_fNSQ)
 ![Screenshot from 2021-11-30 01-01-45](https://user-images.githubusercontent.com/42698268/143930784-47d6708e-dd1b-450e-9d89-9c9f572f89bc.png)
 
 # [Difference between Supervised, unsupervised and reinforcement learning](https://youtu.be/1FZ0A1QCMWc)
@@ -229,7 +232,7 @@ Artificial neural networks (ANNs), usually simply called neural networks (NNs), 
 ![Screenshot from 2021-11-30 01-21-02](https://user-images.githubusercontent.com/42698268/143933720-7cfe0147-8737-44e1-9a41-806384866b5f.png)
 
 
-## Training process of each of these machine learning techniques
+## 6. Training process of each of these machine learning techniques
 
 
 ![Screenshot from 2021-11-30 01-23-53](https://user-images.githubusercontent.com/42698268/143933721-639a6fbd-9e82-4304-86b5-af6806e8edf0.png)
