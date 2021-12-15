@@ -1,6 +1,6 @@
 # MODULE : 1
 
-## What is computing
+## What do you mean by computing
 
 * According to the concept of computing, the input is called an antecedent and the output is called the consequent. For example, Adding information in DataBase, Compute the sum of two numbers using a C program, etc.
 
