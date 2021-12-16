@@ -941,4 +941,238 @@ Channel Capacity=2* Bandwidth*propagation Delay
 # [COMPUTER NETWORK NOTES](https://www.computernetworkingnotes.com/networking-tutorials/)
 
 
+# Gate smashers lectures
+
+
+![Screenshot from 2021-12-16 17-05-47](https://user-images.githubusercontent.com/42698268/146446140-c521e76b-e1a8-4f05-811f-d7eb1dd6a937.png)
+
+
+![Screenshot from 2021-12-16 17-06-25](https://user-images.githubusercontent.com/42698268/146446150-e81fc677-e47e-4618-970c-687059d0d1be.png)
+
+
+![Screenshot from 2021-12-16 17-21-28](https://user-images.githubusercontent.com/42698268/146446162-de77301b-ecbe-4826-aa0c-dec8efae27ec.png)
+
+
+![Screenshot from 2021-12-16 17-27-29](https://user-images.githubusercontent.com/42698268/146446184-0c454e60-be37-4cfb-a3c6-2bd313d6f3fe.png)
+
+
+
+![Screenshot from 2021-12-16 20-45-23](https://user-images.githubusercontent.com/42698268/146446204-d9d63d1d-09c1-4403-acf9-5d8adaf65822.png)
+
+
+
+
+![Screenshot from 2021-12-16 21-03-02](https://user-images.githubusercontent.com/42698268/146446207-da1101ef-c5a2-4754-a4ae-00527c929eeb.png)
+
+
+
+![Screenshot from 2021-12-16 21-04-35](https://user-images.githubusercontent.com/42698268/146446222-834a29f5-fad5-4dd5-952d-235073bcace0.png)
+
+
+![Screenshot from 2021-12-16 21-34-12](https://user-images.githubusercontent.com/42698268/146446232-c982b6c7-dd7c-4de3-a5ea-3d8c3083b256.png)
+
+
+![Screenshot from 2021-12-16 21-44-18](https://user-images.githubusercontent.com/42698268/146446260-6be6aee0-5913-417b-b5a9-59291824a426.png)
+
+
+![Screenshot from 2021-12-16 21-54-42](https://user-images.githubusercontent.com/42698268/146446278-032abcb2-74bb-4df6-b0d7-36528048596a.png)
+
+
+
+![Screenshot from 2021-12-16 22-04-44](https://user-images.githubusercontent.com/42698268/146446287-bf1e2d61-1a85-4259-b516-92c953a8ddad.png)
+
+
+
+![Screenshot from 2021-12-16 22-11-21](https://user-images.githubusercontent.com/42698268/146446313-1e1d9cd9-3362-4b44-934c-a482c430a385.png)
+
+
+
+
+![Screenshot from 2021-12-16 22-13-33](https://user-images.githubusercontent.com/42698268/146446329-ea55de5c-2eb9-46b3-8f91-dde950659ab3.png)
+
+
+![Screenshot from 2021-12-16 23-07-17](https://user-images.githubusercontent.com/42698268/146446344-b7d04f6a-978a-484a-95cc-15ce2a1bffae.png)
+
+
+
+
+![Screenshot from 2021-12-16 23-08-41](https://user-images.githubusercontent.com/42698268/146446368-cef26d08-3814-4eba-9a92-524fa9414c66.png)
+
+
+
+
+![Screenshot from 2021-12-16 23-16-58](https://user-images.githubusercontent.com/42698268/146446376-ec4b661d-fcb3-4cb5-9d79-4a5dfa7e2cab.png)
+
+
+![Screenshot from 2021-12-16 23-26-43](https://user-images.githubusercontent.com/42698268/146446416-962e5183-0436-48c4-9527-628f7adfb46f.png)
+
+
+
+
+![Screenshot from 2021-12-16 23-30-21](https://user-images.githubusercontent.com/42698268/146446431-25891dec-1108-417f-a3e1-1894374ab394.png)
+
+![Screenshot from 2021-12-16 23-33-51](https://user-images.githubusercontent.com/42698268/146446442-ce8eb2c4-f408-4e5e-b450-8f6223e09113.png)
+
+
+
+![Screenshot from 2021-12-16 23-36-17](https://user-images.githubusercontent.com/42698268/146446467-55a2da94-c287-43f4-b9df-7cf6c2f77552.png)
+
+
+
+![Screenshot from 2021-12-16 23-38-57](https://user-images.githubusercontent.com/42698268/146446481-e48bfcd7-5006-4ccb-a56e-fb5dd18ea27a.png)
+
+
+
+![Screenshot from 2021-12-16 23-56-02](https://user-images.githubusercontent.com/42698268/146446485-ec54781f-fb05-4fb3-bbaf-5a6010f8e5a9.png)
+
+
+
+![Screenshot from 2021-12-16 23-56-19](https://user-images.githubusercontent.com/42698268/146446489-141911b7-87a9-4635-b70a-68f931e73133.png)
+
+
+![Screenshot from 2021-12-17 00-44-46](https://user-images.githubusercontent.com/42698268/146446507-74b8490e-7880-4b4b-a925-6ebb9dcfbce6.png)
+
+
+
+![Screenshot from 2021-12-17 00-45-26](https://user-images.githubusercontent.com/42698268/146446515-43796512-379d-44b6-8a43-c421332f6e7d.png)
+
+
+
+
+![Screenshot from 2021-12-17 00-46-48](https://user-images.githubusercontent.com/42698268/146446535-60d8e7aa-1aa9-4df3-a967-398308d7d5ed.png)
+
+
+
+![Screenshot from 2021-12-17 00-46-55](https://user-images.githubusercontent.com/42698268/146446562-37c2e119-e152-4b71-a0da-9b4680328d5a.png)
+
+
+![Screenshot from 2021-12-17 00-47-11](https://user-images.githubusercontent.com/42698268/146446592-23f339b4-cc31-4499-889b-ac25576da685.png)
+
+
+![Screenshot from 2021-12-17 00-47-18](https://user-images.githubusercontent.com/42698268/146446631-bd1dc892-9fb0-4112-b693-ecf7fab268e2.png)
+
+
+
+![Screenshot from 2021-12-17 00-47-29](https://user-images.githubusercontent.com/42698268/146446669-fbaa9ef2-a9e1-4d5f-be94-37fb1824e1a3.png)
+
+
+
+![Screenshot from 2021-12-17 00-49-23](https://user-images.githubusercontent.com/42698268/146446703-de657acd-32e0-495c-81ab-251d9d7fd6f4.png)
+
+
+
+![Screenshot from 2021-12-17 00-49-36](https://user-images.githubusercontent.com/42698268/146446707-b455d90b-56b6-4fbf-b641-bf42cc1ec178.png)
+
+
+
+![Screenshot from 2021-12-17 00-49-48](https://user-images.githubusercontent.com/42698268/146446717-933d281f-fd1a-43b3-9b05-d22410bcb81d.png)
+
+
+
+![Screenshot from 2021-12-17 01-05-42](https://user-images.githubusercontent.com/42698268/146446726-52a59b62-8983-4b33-8b57-43e4e8365718.png)
+
+
+
+![Screenshot from 2021-12-17 01-06-12](https://user-images.githubusercontent.com/42698268/146446744-4a9da00c-e162-418f-aa5c-2a701f38ad28.png)
+
+
+
+![Screenshot from 2021-12-17 01-07-07](https://user-images.githubusercontent.com/42698268/146446751-8c84adca-3cf3-4acf-8a27-092ac53f20f3.png)
+
+
+
+![Screenshot from 2021-12-17 01-07-53](https://user-images.githubusercontent.com/42698268/146446753-99e707d1-6623-4fa6-9da9-2fa1036cbf0b.png)
+
+
+
+![Screenshot from 2021-12-17 01-09-28](https://user-images.githubusercontent.com/42698268/146446783-b4d66ac9-2ddd-4ff0-be8e-a528d93410b0.png)
+
+![Screenshot from 2021-12-17 01-09-42](https://user-images.githubusercontent.com/42698268/146446790-e843b01a-1e2a-4847-8d45-4972616c053d.png)
+
+![Screenshot from 2021-12-17 01-09-56](https://user-images.githubusercontent.com/42698268/146446805-be7179cd-568a-440d-bedf-920766819378.png)
+
+
+
+![Screenshot from 2021-12-17 01-10-07](https://user-images.githubusercontent.com/42698268/146446827-df3bc1cf-a0a7-464d-bc38-0196b9c692f9.png)
+
+
+
+![Screenshot from 2021-12-17 01-10-37](https://user-images.githubusercontent.com/42698268/146446849-07adf742-1623-4eb0-bd04-00cf3e20be0f.png)
+
+
+
+![Screenshot from 2021-12-17 01-11-17](https://user-images.githubusercontent.com/42698268/146446871-7e7cbeac-955b-4eaa-8a72-7c54214d061e.png)
+
+![Screenshot from 2021-12-17 01-13-05](https://user-images.githubusercontent.com/42698268/146446882-34aca159-0054-4037-a974-188d9ce09c91.png)
+
+
+
+![Screenshot from 2021-12-17 01-15-30](https://user-images.githubusercontent.com/42698268/146446893-91b39854-786c-4e2f-86bd-4f7ce0932090.png)
+
+
+
+![Screenshot from 2021-12-17 01-21-20](https://user-images.githubusercontent.com/42698268/146446906-a43323bb-1755-4227-9f01-9b487d5708cd.png)
+
+
+
+![Screenshot from 2021-12-17 01-22-18](https://user-images.githubusercontent.com/42698268/146446923-a89a961d-75b4-4217-915e-c5cd3fe2e55f.png)
+
+
+![Screenshot from 2021-12-17 01-24-56](https://user-images.githubusercontent.com/42698268/146446938-80445df5-baec-4af7-b49f-f1362522dcca.png)
+
+
+![Screenshot from 2021-12-17 01-27-45](https://user-images.githubusercontent.com/42698268/146446945-e49edab4-fcfb-4df6-b4b9-adcb86ce092f.png)
+
+
+
+![Screenshot from 2021-12-17 01-28-14](https://user-images.githubusercontent.com/42698268/146446968-c95b51ed-6b75-4bba-8ecc-f4001472a956.png)
+
+
+
+![Screenshot from 2021-12-17 01-28-38](https://user-images.githubusercontent.com/42698268/146446990-df6275fe-2f29-44b0-89bf-6ecaceb91999.png)
+
+
+
+![Screenshot from 2021-12-17 01-29-03](https://user-images.githubusercontent.com/42698268/146446996-be85d4f9-fb1d-4717-8a38-754042c71c96.png)
+
+
+
+
+
+![Screenshot from 2021-12-17 01-40-10](https://user-images.githubusercontent.com/42698268/146447050-3feffcde-3026-4b86-a3ba-af2f5395575e.png)
+
+
+
+
+![Screenshot from 2021-12-17 01-40-50](https://user-images.githubusercontent.com/42698268/146447063-7da9fe05-53cc-41ff-9377-881f85956021.png)
+
+
+
+![Screenshot from 2021-12-17 01-53-26](https://user-images.githubusercontent.com/42698268/146447085-e337d9d7-9769-49c6-80e7-fc8008435c38.png)
+
+
+
+
+![Screenshot from 2021-12-17 01-53-38](https://user-images.githubusercontent.com/42698268/146447101-4bbd623e-4307-4175-a601-d03f71221d32.png)
+
+
+
+![Screenshot from 2021-12-17 02-00-09](https://user-images.githubusercontent.com/42698268/146447124-ff7f561b-61f0-4232-8a81-d08913f26fb5.png)
+
+
+
+![Screenshot from 2021-12-17 02-08-27](https://user-images.githubusercontent.com/42698268/146447129-ab8ef29c-d626-4fad-9f38-4526a2c2f4b3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
